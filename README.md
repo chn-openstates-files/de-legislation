@@ -1,4 +1,4 @@
-# 🏛️ de legislation file tree
+# 🏛️ Delaware legislation file tree
 
 Download a copy of your states legislation.
 
