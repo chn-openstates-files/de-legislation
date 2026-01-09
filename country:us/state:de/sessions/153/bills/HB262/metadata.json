@@ -1,7 +1,7 @@
 {
   "legislative_session": "153",
-  "identifier": "HB 2",
-  "title": "AN ACT TO AMEND TITLE 18 AND TITLE 29 OF THE DELAWARE CODE RELATING TO DEATH BENEFITS.",
+  "identifier": "HB 262",
+  "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO PAID LEAVE.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,14 +10,14 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "Like House Bill No. 2, House Substitute No. 1 for HB 2 makes technical corrections to \u00a7 5546 of Title 29 and increases from $7,000 to $8,000, both of the following:\r\n\u2022\tThe amount of the burial benefit under the State Employees\u2019 Pension Plan.\r\n\u2022\tThe amount paid for funeral expenses for a member of a volunteer fire company, volunteer fire company ladies auxiliary, or a volunteer ambulance and rescue company.\r\n\r\nHS 1 for HB 2 differs from HB 2 because it changes the effective date to October 1, 2026, and because the enactment of Senate Bill No. 28 (85 Del. Laws, c. 215) on September 9, 2025, included all of the following:\r\n\u2022\tThe technical revisions to \u00a7 6750 of Title 18 that were also included in Section 2 of HB 2.\r\n\u2022\tThe transfer of \u00a7 6750 of Title 18 to \u00a7 6701A of Title 18, which was also included in House Amendment No. 1 to HB 2.\r\n\u2022\tThe enactment of \u00a7 6701A of Title 18, which was also included in HA 1 to HB 2."
+      "abstract": "This Act clarifies that paid leave for the adoption of a child may begin at one of the following times: (1) when the child is placed for adoption with the employee; (2) when the employee initiates a petition for adoption; or (3) when the adoption process is completed."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Adopted in lieu of the original bill HB 2, and Assigned to Appropriations Committee in House",
+      "description": "Introduced and Assigned to Education Committee in House",
       "date": "2026-01-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -26,7 +26,7 @@
       ],
       "related_entities": [
         {
-          "name": "Appropriations",
+          "name": "Education",
           "entity_type": "organization",
           "organization_id": null
         }
@@ -38,11 +38,27 @@
   ],
   "sponsorships": [
     {
-      "name": "William J. Carson",
+      "name": "Debra Heffernan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Debra Heffernan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
       "organization_id": null
     },
     {
@@ -62,11 +78,11 @@
       "organization_id": null
     },
     {
-      "name": "Ronald E. Gray",
+      "name": "Ray Seigfried",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ronald E. Gray\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
       "organization_id": null
     },
     {
@@ -78,35 +94,35 @@
       "organization_id": null
     },
     {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
       "name": "Claire Snyder-Hall",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Russell Huxtable",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nicole Poore",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
-      "organization_id": null
-    },
-    {
-      "name": "John \"Jack\" Walsh",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
       "organization_id": null
     }
   ],
@@ -116,13 +132,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142751",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142746",
       "note": "text/html"
     }
   ],
-  "extras": {
-    "substitute": "HS 1"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
