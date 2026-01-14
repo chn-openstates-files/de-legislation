@@ -13,7 +13,12 @@
       "abstract": "This Act clarifies that a nonhuman entity, including an agent powered by AI, may not be licensed as a professional nurse, APRN, practical nurse, physician, or physician assistant.  It further clarifies that a nonhuman entity may not use any of the foregoing professional titles."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Licensed Medical Professional/Nonhuman Entity/Prohibited"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-09T12:22:21Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Sunset Committee (Policy Analysis & Government Accountability)) in House with 5 On Its Merits",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
       }
     }
   ],
@@ -104,6 +127,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:22:21Z"
+    "logs_latest_update": "2026-01-14T12:22:28Z"
   }
 }

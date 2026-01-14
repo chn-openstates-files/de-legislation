@@ -152,6 +152,52 @@
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
       }
+    },
+    {
+      "description": "Amendment HA 2 to SB 106 - Introduced and Placed With Bill",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 106 - Stricken in House",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to SB 106 - Passed In House by Voice Vote",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -307,6 +353,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 2 to SB 106",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142759&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142759&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -318,7 +379,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "amendment": "SA 2 + HA 2"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -327,6 +388,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-01-14T12:22:28Z"
   }
 }

@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to SB 211 - Introduced and Placed With Bill",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:22:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -141,7 +153,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -149,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-01-14T12:22:28Z"
   }
 }
