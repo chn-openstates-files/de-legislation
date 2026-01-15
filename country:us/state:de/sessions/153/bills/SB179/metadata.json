@@ -76,6 +76,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 4 On Its Merits",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }

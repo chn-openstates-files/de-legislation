@@ -13,7 +13,12 @@
       "abstract": "This Act prohibits the operation of private detention facilities in the State of Delaware."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Private Detention Facilities/Prohibited in Delaware"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -45,6 +50,25 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 6 Favorable, 1 On Its Merits",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
       }
     }
   ],
@@ -142,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "Last session, the General Assembly enacted the Richard \"Mouse\" Smith Compassionate Release Act (Senate Substitute No. 1 for Senate Bill No. 10), which revised the process for sentence modifications.\r\n\r\nThis Act makes a change to that Act. Specifically, Senate Substitute No. 1 for Senate Bill No. 10 required the Department of Correction (\"Department\") to adopt regulations to implement the revised sentence modification process. The Department does not believe regulations are necessary for the Department to successfully implement the revised sentence modification process. Therefore, this Act authorizes the Department to adopt regulations, rather than requires it."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Mouse Smith Compassionate Release Act/Updates/Technical"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-14T12:22:28Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 7 On Its Merits",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
       }
     }
   ],
@@ -72,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:22:28Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }

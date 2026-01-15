@@ -13,7 +13,12 @@
       "abstract": "This Act updates Delaware\u2019s Uniform Health Data laws.  \r\nThis Act corrects the form number of UB-82 to UB-04.\r\nThis Act provides that emergency department data is included in the data that the Hospital Discharge Technical Advisory Committee studies.\r\nFinally, this Act makes technical corrections to conform to the requirements of the Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Uniform Health Data Laws/Updates"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 11 Favorable",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
       }
     }
   ],
@@ -88,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }

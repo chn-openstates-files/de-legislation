@@ -13,7 +13,12 @@
       "abstract": "To protect the integrity of our elections, this Act provides that in order to vote, a voter, prior to being permitted to vote, must be able to present a photographic identification, specifically a Driver\u2019s License or a Nondriver Identification Card issued by the Division of Motor Vehicles, or a United States Passport or a military identification card. In order to make obtaining an identification card easier on the general public, the first nondriver identification card issued by the Division shall be free, as opposed to the current fee of $40.00. Subsequent cards, upon expiration, will be issued for a reduced fee of $20.00. Department of Elections for each county will now be required to conduct at lest 2 countywide programs at locations reasonably convenient and accessible to the citizens."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Voter ID/Elections/DMV ID Cards"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,16 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Motion to Release Failed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
       }
     }
   ],
@@ -116,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }

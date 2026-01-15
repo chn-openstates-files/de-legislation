@@ -13,7 +13,12 @@
       "abstract": "This Act strengthens essential protections for victims of human trafficking by removing practical barriers that prevent victims from getting convictions or juvenile delinquency adjudications obtained as a result of being a victim of human trafficking vacated and the related criminal or juvenile records expunged. \r\n\r\nThis Act amends \u00a7 787 of Title 11 in the following ways:\r\n\r\n(1) Requires a showing that the offense to be vacated was committed \u201cas a result\u201d, instead of \u201cas a direct result\u201d, of the victims having been trafficked, which recognizes that victims of human trafficking may engage in a range of criminal behaviors related to their exploitation.\r\n\r\n(2) Provides that a motion to vacate and any hearing or proceeding related to the motion to vacate must remain confidential, unless the court determines good cause exists to open the proceeding, so a victim of human trafficking may seek relief without fear of revictimization.\r\n\r\n(3) Eliminates the requirement of a mandatory hearing on a motion to vacate unless the Attorney General files a timely objection to the motion. This will allow victims to obtain relief on uncontested motions without needing to relive their trauma through questioning at a formal hearing.\r\n\r\n(4) Clarifies that the standard of proof for determining eligibility for vacating an adjudication or conviction under \u00a7 787(j) is by a preponderance of evidence.\r\n\r\n(5) Allows a victim to vacate a conviction or adjudication of delinquency under \u00a7 787(j) and expunge the records of that conviction or adjudication. Additionally, this Act allows the court to order immediate expungement sua sponte or on request and allows expungements to be ordered by the court deciding the motion to vacate. \r\n\r\n(6) Establishes guidelines for the Attorney General to request an extension of time, if needed, to respond to a motion to vacate.\r\n\r\nThis Act also aligns the standards for a defense to a charge of prostitution or loitering from \u201cas a direct result\u201d to \u201cas a result\u201d of human trafficking. This matches the change made to the vacatur provisions and keeps the standards in \u00a7 787 consistent.\r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Human Trafficking Victims/Strengthen Protections"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 10 Favorable, 1 On Its Merits",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:22:46Z"
       }
     }
   ],
@@ -160,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-15T12:22:46Z"
   }
 }
