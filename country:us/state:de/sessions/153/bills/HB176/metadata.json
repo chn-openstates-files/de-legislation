@@ -34,6 +34,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
       }
+    },
+    {
+      "description": "Stricken in House",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:22:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-01-16T12:22:18Z"
   }
 }
