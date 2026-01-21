@@ -70,6 +70,30 @@
       "_processing": {
         "log_file_created": "2026-01-20T12:24:50Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to SB 213 - Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +162,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "SA 1 to SB 213",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142782&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142782&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -158,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-20T12:24:50Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }

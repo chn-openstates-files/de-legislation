@@ -70,6 +70,25 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:22:18Z"
       }
+    },
+    {
+      "description": "Assigned to Natural Resources & Energy Committee in House",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:22:18Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }

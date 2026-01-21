@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:22:21Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to SB 220 - Introduced and Placed With Bill",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -61,7 +73,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -69,6 +83,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:22:21Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }

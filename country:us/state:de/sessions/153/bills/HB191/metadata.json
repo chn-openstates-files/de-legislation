@@ -57,6 +57,37 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:22:28Z"
       }
+    },
+    {
+      "description": "Passed By House. Votes: 38 YES 3 ABSENT",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
+    },
+    {
+      "description": "Assigned to Legislative Oversight & Sunset Committee in Senate",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:22:28Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }

@@ -39,6 +39,16 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:22:18Z"
       }
+    },
+    {
+      "description": "Passed In House by Voice Vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -85,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:22:18Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }

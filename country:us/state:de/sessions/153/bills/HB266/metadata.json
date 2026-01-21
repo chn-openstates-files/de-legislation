@@ -13,7 +13,12 @@
       "abstract": "This Act allows a large municipality to permit the rental of a low-speed motorized scooter through ordinance or other regulation."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Scooter Rental/Large Municipalities/Allow"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-14T12:22:28Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Public Safety & Homeland Security) in House with 8 On Its Merits",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety & Homeland Security",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:25:00Z"
       }
     }
   ],
@@ -120,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:22:28Z"
+    "logs_latest_update": "2026-01-21T12:25:00Z"
   }
 }
