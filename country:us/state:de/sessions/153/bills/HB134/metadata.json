@@ -13,7 +13,12 @@
       "abstract": "This Bill updates Title 11 of the Delaware Code relating to animal cruelty. After 2 misdemeanor violations of this section, currently class A misdemeanors, all further violations are to be upgraded to class F felonies. Also, after the first felony violation of the statute, currently a class F felony, which involves intentionally killing or causing serious injury to any animal in violation of the statute, all further violations are to be upgraded to class E felonies. Also, any person convicted of a felony violation a second time shall be prohibited from owning or possessing any animal for the remainder of their life without exception."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Animal Cruelty/Upgrades to Felony"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 7 On Its Merits",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:11Z"
       }
     }
   ],
@@ -168,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-22T12:25:11Z"
   }
 }

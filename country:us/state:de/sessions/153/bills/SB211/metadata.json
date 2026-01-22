@@ -51,6 +51,25 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:22:28Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Agriculture) in Senate with 6 Favorable",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:22:28Z"
+    "logs_latest_update": "2026-01-22T12:25:11Z"
   }
 }

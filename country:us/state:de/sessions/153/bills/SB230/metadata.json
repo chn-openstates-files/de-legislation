@@ -39,6 +39,25 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:25:00Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 3 Favorable, 2 On Its Merits",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:25:00Z"
+    "logs_latest_update": "2026-01-22T12:25:11Z"
   }
 }

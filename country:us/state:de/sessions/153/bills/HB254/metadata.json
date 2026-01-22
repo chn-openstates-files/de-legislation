@@ -13,7 +13,12 @@
       "abstract": "This Act changes the name of the Division of Diversity, Equity, and Inclusion to the Division of People and Culture. Renaming the division from Diversity, Equity, and Inclusion to People and Culture signifies a broader, more comprehensive approach to cultivating an inclusive and engaging workplace. The new designation underscores the focus on the overall employee experience, organizational culture, and people-centered initiatives. This change positions the division as a key contributor to both cultural development and organizational success."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Division of People and Culture/DHR"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:11Z"
       }
     }
   ],
@@ -112,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-01-22T12:25:11Z"
   }
 }
