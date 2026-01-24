@@ -10,53 +10,22 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act allows a tenant to terminate a rental agreement early if they are purchasing a home by providing 30 days' written notice to the landlord. The 30-day period begins on the first day of the month after the day the notice is given. This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual. This Act updates language for group or cooperative living facility and retirement home to the definition of long-term care facility in \u00a71102 of Title 16. And this Act removes references to subsidized public or private housing from \u00a7 5314(b)(3) of Title 25 because it is repeated in \u00a7 5314(b)(4) of Title 25."
+      "abstract": "This Act is a Substitute for SB 34 and differs from SB 34 in the following ways:\r\n\r\n\u2022 Moves the provision for lease termination to purchase a home from \u00a7 5314(b) of Title 25 to a new subsection (c) under \u00a75314 of Title 25.\r\n\u2022 Does not make technical changes to \u00a7 5314(b) of Title 25.\r\n\u2022 Requires the tenant to give the landlord a signed agreement of sale at the same time the tenant gives the landlord notice of early lease termination to purchase a home.\r\n\u2022 Changes the notice a tenant is required to give for terminating a lease to purchase a home from 30 days to 60\r\ndays. \r\n\u2022 Clearly states that the lease terminates after the 60-day period.\r\n\u2022 Allows the landlord and tenant to agree to extend the 60-day period by signing a written agreement.\r\n\u2022 References that \u00a7 5514(c)(3) allows a landlord to deduct reasonable expenses, incurred in rerenting after early lease termination, from the tenant\u2019s security deposit.\r\nThis Act allows a tenant to terminate a rental agreement early if purchasing a home by providing 60 days' written notice to the landlord, along with a copy of the agreement of sale. The 60-day period begins on the first day of the month after the day the notice is given, but the landlord and tenant may agree to extend the lease termination date past the 60-day period by written agreement signed by the landlord and tenant. This Act also references that a landlord may deducting reasonable expenses incurred in rerenting the premises, up to 1 month\u2019s rent, from the tenant\u2019s security deposit as provided under \u00a7 5514(c)(3) of Title 25."
     }
   ],
-  "other_titles": [
-    {
-      "note": "short title",
-      "title": "Rental Agreements/Early Termination/Allow"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Housing Committee in Senate",
-      "date": "2025-01-03",
+      "description": "was introduced and adopted in lieu of SB 34",
+      "date": "2026-01-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Housing",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Housing & Land Use) in Senate with 2 Favorable, 3 On Its Merits",
-      "date": "2025-05-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Housing & Land Use",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
+        "log_file_created": "2026-01-24T12:19:49Z"
       }
     }
   ],
@@ -111,32 +80,18 @@
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141750&legislationTypeId=1&docTypeId=2&legislationName=SB34",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=141750&legislationTypeId=1&docTypeId=2&legislationName=SB34",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=141750",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142810",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "SS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -144,6 +99,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-24T12:19:49Z"
   }
 }
