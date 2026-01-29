@@ -13,7 +13,12 @@
       "abstract": "This Act elevates the charge for assaulting a postal worker acting in the lawful performance of duty from assault in the third degree to assault in the second degree."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Assaulting a Postal Worker/Assault 2nd"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-21T12:25:00Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 8 On Its Merits, 1 Unfavorable",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -152,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:25:00Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "This Act allows a paid emergency medical technician working for a participating employer to be eligible for the County Municipal Police/Firefighter Pension Plan. It also makes conforming changes to other sections of the Code.\r\nIn addition, this Act will exclude firefighters and EMTs hired after the effective date of this Act from participating in the County and Municipal Employees\u2019 Fund, in order to ensure the State\u2019s pension plans comply with federal tax and pension law. Going forward, employees who work as paid firefighters, EMTs, or both will be eligible only for the Police/Firefighter Pension Fund.\r\nTechnical corrections to existing statutory language are also made as follows: (i) to eliminate \u00a7 8806 of Title 11, which is duplicative of \u00a7 8308 of Title 29 and therefore unnecessary; (ii) to conform the title of \u00a7 8814 with its content; (iii) to correctly list the entities which may participate in each plan and the requirements for doing so; (iv) to correct cross-references that are incorrect in the current Code."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "EMT/County Municipal Police Firefighter Pension"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 2 Favorable, 4 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -88,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

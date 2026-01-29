@@ -198,6 +198,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
       }
+    },
+    {
+      "description": "Veto Override Passed in the Senate. 14 YES 6 NO 1 NOT VOTING",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -316,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

@@ -156,6 +156,36 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
       }
+    },
+    {
+      "description": "Veto Override Passed in the Senate. 15 YES 6 NO",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
+    },
+    {
+      "description": "Veto Override Passed in the House. 25 YES 15 NO 1 ABSENT",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
+    },
+    {
+      "description": "Enacted into Law",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -299,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

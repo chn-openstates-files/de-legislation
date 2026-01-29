@@ -13,7 +13,12 @@
       "abstract": "This Act requires that an electric supplier\u2019s interconnection rules, for purposes of net-metering, align with the most recent version of the Interstate Renewable Energy Council\u2019s Model Interconnection Procedures (Procedures) within 12 months of the Procedures\u2019 latest publishing date."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Interconnection Rules/Alignment/Procedures"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-21T12:25:00Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 1 Favorable, 8 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -88,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:25:00Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act deletes the current Charter of the Village of Arden and replaces it with a new charter that differs in several respects. \r\nAmong other changes, this Act adds a preamble to the Charter; amends the boundaries of the Village to include the Sherwood Forest Addition and the Mill Race Addition; adds definitions of certain terms; provides that regular meetings of the Town Assembly are to be held at the Gild Hall or other suitable public physical or virtual venue in the village; clarifies and amends the procedures for Special Town Meetings; clarifies and revises the procedures for enacting, amending, and repealing ordinances; provides that a referendum may be called by a majority vote at a Town Assembly Meeting; adds a non-voting, alternate member to the Board of Assessors; removes a provision for the election of the Board of Assessors, which is transferred it to a village ordinance; requires the Board of Assessors to assess the community standard of living, in addition to the full rental value of leased lands; removes provisions for the election of the Budget Committee and the budget referendum voting process, which are transferred to an ordinance; updating language relating to responsibilities of the Budget Committee; provides that if a budget referendum fails, then the town will use the previous year's budget until a new budget can be approved;  removes provisions relating to the election of the Registration Committee, which are transferred to an ordinance; revises the fines and penalties that may be imposed by a Justice of the Peace for violations of the Charter or village ordinances and revises the appeals process for convictions thereof; simplifies the Charter's provisions for town law enforcement officials; requires that town contracts must be witnessed by a second Village official, in addition to signed by the Chair of the Town Assembly; deletes the section of the Charter relating to fire, zoning, and housing codes, as those subjects are already handled by New Castle County; replaces gender-specific language with gender-neutral language; and makes other, minor changes to the language of the Charter."
+      "abstract": "Among other changes, this Act is a substitute for Senate Bill No. 220 and does all the following related to the Charter of the Village of Arden:\r\n\r\n(1) Adds a preamble to the Charter.\r\n(2) Amends the boundaries of the Village to include the Sherwood Forest Addition and the Mill Race Addition and, in Section 2 of this Act, makes clear the General Assembly\u2019s inherent power to set the boundaries of a municipality. \r\n(3) Adds definitions of certain terms. \r\n(4) Provides that regular meetings of the Town Assembly are to be held at the Gild Hall or other suitable public physical or virtual venue in the village.\r\n(5) Clarifies and amends the procedures for Special Town Meetings.\r\n(6) Clarifies and revises the procedures for enacting, amending, and repealing ordinances.\r\n(7) Provides that a referendum may be called by a majority vote at a Town Assembly Meeting. \r\n(8) Adds a non-voting, alternate member to the Board of Assessors; removes a provision for the election of the Board of Assessors, which is transferred to an ordinance.\r\n(9) Requires the Board of Assessors to assess the community standard of living, in addition to the full rental value of leased lands.\r\n(10) Removes provisions for the election of the Budget Committee and the budget referendum voting process, which are transferred to an ordinance.\r\n(11) Updates language relating to responsibilities of the Budget Committee.\r\n(12) Provides that if a budget referendum fails, then the town will use the previous year's budget until a new budget can be approved.\r\n(13) Removes provisions relating to the election of the Registration Committee, which are transferred to an ordinance.\r\n(14) Revises the fines and penalties that may be imposed by a Justice of the Peace for violations of the Charter or village ordinances and revises the appeals process for convictions thereof.\r\n(15) Simplifies the Charter's provisions for town law enforcement officials.\r\n(16) Requires that town contracts must be witnessed by a second Village official, in addition to signed by the Chair of the Town Assembly.\r\n(17) Deletes the section of the Charter relating to fire, zoning, and housing codes, as those subjects are already handled by New Castle County.\r\n(18) Replaces gender-specific language with gender-neutral language.\r\n(19) Makes other, minor changes to the language of the Charter."
     }
   ],
   "other_titles": [
@@ -22,8 +22,8 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
-      "date": "2026-01-08",
+      "description": "Adopted in lieu of the original bill SB 220, and Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-01-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
@@ -37,19 +37,7 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-01-09T12:22:21Z"
-      }
-    },
-    {
-      "description": "Amendment SA 1 to SB 220 - Introduced and Placed With Bill",
-      "date": "2026-01-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-21T12:25:00Z"
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -61,6 +49,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
       "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -69,12 +65,12 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142750",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142821",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "SA 1"
+    "substitute": "SS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -83,6 +79,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:25:00Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

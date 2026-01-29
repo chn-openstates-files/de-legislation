@@ -87,6 +87,24 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:23:35Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 3 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:23:35Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "This Act makes use or consumption of a personal use quantity of a controlled substance or counterfeit controlled substance classified in section 4714(d)(19) of Title 16 (products containing marijuana or tetrohydrocannabinols) in an area accessible to the public or in a moving vehicle a civil violation rather than a misdemeanor, and changes the potential penalties for this offense to a fine of up to $50 for a first offense and up to $100 for subsequent offenses. This Act does not affect the ability of law enforcement to arrest and charge individuals who operate motor vehicles while under the influence of controlled substances under Title 21 of the Delaware Code.\r\nThis Act also makes a technical correction to delete a reference in a section title to a previously repealed subsection."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Consumption/Controlled Substance/Civil Violation"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 3 Favorable, 7 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -128,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

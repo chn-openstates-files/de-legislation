@@ -13,7 +13,12 @@
       "abstract": "This House Concurrent Resolution establishes the purpose and protocol for the creation of a state of the state report on perinatal mental health in Delaware. The report is to be prepared by the Behavioral Health Consortium in consultation with its Maternal Mental Health Working Group, the Department of Health and Social Services, the Delaware Health Commission\u2019s Health Workforce Subcommittee, the Delaware Perinatal Quality Collaborative, and the Maternal and Child Death Review Committee for review by the Governor, the Delaware State Senate, the Delaware House of Representatives, the Senate Health and Social Services Committee, the House Health and Human Development Committee, and the Director and Librarian of the Division of Legislative Services by December 1, 2026, and is to include a summary of current state programming, training and education, gaps in services, funding streams, demographic information, performance outcomes, and utilization data as well as any recommendations for addressing access and racial and socioeconomic disparities."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Perinatal Mental Health Report/Create"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-16T12:22:18Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 13 Favorable",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -136,6 +160,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:22:18Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

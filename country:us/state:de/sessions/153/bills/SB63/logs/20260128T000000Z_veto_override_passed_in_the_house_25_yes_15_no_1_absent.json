@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Veto Override Passed in the House. 25 YES 15 NO 1 ABSENT",
+    "date": "2026-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 63"
+}

@@ -13,7 +13,12 @@
       "abstract": "This Act amends the Fiscal Year 2026 Bond and Capital Improvements Act to (1) add the Department of Labor, Sussex Facility, to the Transfer to the State Treasurer\u2019s Agency Bond Reversion Account; (2) add the Delaware Veterans Cemetery Expansion to the list of OMB Projects in the Transfer from the State Treasurer\u2019s Agency Bond Reversion Account; (3) allow the Legislative Building Committee to develop design standards and plans for Legislative Hall; (4) authorize the Office of Management and Budget, Division of Facilities Management, to utilize residual funds for the Delaware State Police Firing Range Improvements; (5) allow for funds appropriated to the Department of Natural Resources and Environmental Control to be used for the construction of a mixed-species exhibit; (6) authorize the Department of Transportation to use Community Transportation Funds for one-time reimbursements for various projects; (7) reprogram funding from the Community Redevelopment/Reinvestment Fund from Downtown Milford, Inc. to the City of Milford, Delaware Nature Society, Kent Sussex Industries, the Milford District Fee Public Library Commission, and the Milford Housing Development Corporation; (8) update Delaware Code to make a language change from a stationary source reporting propane and ammonium nitrate to a stationary source reporting propane or ammonium nitrate; (9) require the Diamond State Port Corporation and the Department of Transportation to conduct a study of rerouting truck traffic on Hay Road; (10) correct a reference to the Historic Tax Credit; (11) allows that the activation timing of amber warning lights shall not apply to Red Clay School District school buses equipped with, and operating stop arm cameras; (12) authorize the Office of Management and Budget, Division of Facilities Management, to utilize residual funds from the Ferris Window project for the Cleveland White project, (13) authorize the Office of Management and Budget, Division of Facilities Management, to utilize any residual funds from the Department of Correction for the W1 Building HVAC project at James T. Vaughn Correctional Center (14) authorize the transfer of Warwick School No. 203 to Indian Mission Properties, Inc.; (15) amend Delaware Code to require the Diamond State Port Corporation Executive Director to be selected by majority vote of the Board."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Mini Bond Bill"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,47 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-23T12:23:35Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Capital Infrastructure) in House with 4 Favorable",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Capital Infrastructure",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
+    },
+    {
+      "description": "Laid On Table in Senate",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -152,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:23:35Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

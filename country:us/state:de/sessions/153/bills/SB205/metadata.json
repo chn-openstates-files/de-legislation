@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to SB 205 - Introduced and Placed With Bill",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,7 +185,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -181,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

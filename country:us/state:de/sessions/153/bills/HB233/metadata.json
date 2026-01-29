@@ -13,7 +13,12 @@
       "abstract": "This Act requires regulated utilities to establish a separate rate for large energy-use facilities that mitigates the risk of costs associated with expanding infrastructure and maintaining reliability in the face of growing demand from being shifted to residential, small business, and other electric customers. The Public Service Commission will consider the following factors in determining whether to approve a rate application:\r\n1. Whether the rates have the potential to result in increased rates or unwarranted risk to other retail electricity customers.\r\n2. Whether the rates will provide for equitable contributions to grid efficiency, reliability, and resiliency.\r\n3. Whether the rates will impede the utility\u2019s ability to meet renewable energy targets and reduce greenhouse gases consistent with state policy.\r\n4. Whether the rates will allow for procurement of, or contracts for, generation resources that support the electric utility\u2019s ability to meet renewable energy targets and reduce emissions of greenhouse gases consistent with state policy.\r\n5. Meet any other conditions required by the Commission in the public interest.\r\n\r\nThis Act takes effect upon enactment and regulated utilities must file an application to establish rates required under this Act within 180 days of the effective date."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Utilities/Establish Separate Rate/Large Energy-Users"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 5 Favorable, 5 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -80,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }

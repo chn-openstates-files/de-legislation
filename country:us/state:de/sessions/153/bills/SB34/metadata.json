@@ -13,7 +13,12 @@
       "abstract": "This Act is a Substitute for SB 34 and differs from SB 34 in the following ways:\r\n\r\n\u2022 Moves the provision for lease termination to purchase a home from \u00a7 5314(b) of Title 25 to a new subsection (c) under \u00a75314 of Title 25.\r\n\u2022 Does not make technical changes to \u00a7 5314(b) of Title 25.\r\n\u2022 Requires the tenant to give the landlord a signed agreement of sale at the same time the tenant gives the landlord notice of early lease termination to purchase a home.\r\n\u2022 Changes the notice a tenant is required to give for terminating a lease to purchase a home from 30 days to 60\r\ndays. \r\n\u2022 Clearly states that the lease terminates after the 60-day period.\r\n\u2022 Allows the landlord and tenant to agree to extend the 60-day period by signing a written agreement.\r\n\u2022 References that \u00a7 5514(c)(3) allows a landlord to deduct reasonable expenses, incurred in rerenting after early lease termination, from the tenant\u2019s security deposit.\r\nThis Act allows a tenant to terminate a rental agreement early if purchasing a home by providing 60 days' written notice to the landlord, along with a copy of the agreement of sale. The 60-day period begins on the first day of the month after the day the notice is given, but the landlord and tenant may agree to extend the lease termination date past the 60-day period by written agreement signed by the landlord and tenant. This Act also references that a landlord may deducting reasonable expenses incurred in rerenting the premises, up to 1 month\u2019s rent, from the tenant\u2019s security deposit as provided under \u00a7 5514(c)(3) of Title 25."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Rental Agreements/Early Termination/Allow"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -26,6 +31,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-24T12:19:49Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:37Z"
       }
     }
   ],
@@ -99,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:19:49Z"
+    "logs_latest_update": "2026-01-29T12:30:37Z"
   }
 }
