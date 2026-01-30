@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment SA 1 to SB 185 - Passed By Senate. Votes: 21 YES",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 185"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Defeated By Senate. Votes: 6 YES 14 NOT VOTING 1 ABSENT",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 16"
+}

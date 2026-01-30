@@ -10,15 +10,15 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This bill prohibits employers from requiring employees to participate in mandatory meetings or communications that are religious or political in nature. This bill also prohibits employers from punishing employees for the refusing to participate in the same. Meetings or communications necessary for their job duties or that are voluntary are excepted. Violators of the bill are subject to civil penalties between $1,000 - $5,000 per violation."
+      "abstract": "This Substitute for House Bill No. 84 prohibits employers from requiring meetings or communications the purpose of which is to convey the employer\u2019s political or religious views, including views regarding unionization. The Act enumerates several situations to which the prohibition does not apply, including the communication of religious views by a religious employer, the communication of political views by a political party or organization, and training required to comply with civil rights laws and occupational safety and health laws.\r\nThe statute also clarifies that the following communications are outside the scope of the prohibition: (1) An employer communicating to its employees any information that the employer is required by law to communicate, but only to the extent of that legal requirement; (2) An employer communicating to its employees any information that is necessary for those employees to perform their job duties; (3) An institution of higher education, or any agent, representative, or designee of that institution, meeting with or participating in any communications with its employees that are part of coursework, any symposia, or an academic program at that institution; (4) An employer that is a public entity communicating to its employees any information related to a policy of the public entity or any law or regulation that the public entity is responsible for administering; and (5) A tax exempt organization, as defined under United States Internal Revenue Code \u00a7 501(c)(3) communicating with its employees about policy issues that are relevant to the organization, its mission, or the people the organization serves, provided such communication is done in a non-partisan manner. \r\nThe provision is added to the existing chapter dealing with discrimination in employment, and the Department of Labor is empowered to investigate employer practices, make rules and regulations, and commence civil actions if necessary. The Department of Labor is instructed to update, within 90 days of the effective date of this Act, the notices it prepares for use by employers regarding unlawful discrimination in employment to include the provisions of this Act."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Labor Committee in House",
-      "date": "2025-03-18",
+      "description": "Adopted in lieu of the original bill HB 84, and Assigned to Labor Committee in House",
+      "date": "2025-12-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -32,7 +32,19 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
+        "log_file_created": "2026-01-30T12:29:52Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:29:52Z"
       }
     }
   ],
@@ -54,14 +66,6 @@
       "organization_id": null
     },
     {
-      "name": "Brian Pettyjohn",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
-      "organization_id": null
-    },
-    {
       "name": "John \"Jack\" Walsh",
       "classification": "primary",
       "entity_type": "person",
@@ -78,14 +82,6 @@
       "organization_id": null
     },
     {
-      "name": "Claire Snyder-Hall",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
-      "organization_id": null
-    },
-    {
       "name": "Spiros Mantzavinos",
       "classification": "primary",
       "entity_type": "person",
@@ -94,27 +90,11 @@
       "organization_id": null
     },
     {
-      "name": "David L. Wilson",
+      "name": "Bryan Townsend",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mara Gorman",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sarah McBride",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
       "organization_id": null
     }
   ],
@@ -124,11 +104,11 @@
       "note": "Bill Text",
       "links": [
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141961&legislationTypeId=1&docTypeId=2&legislationName=HB84",
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142729&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB84",
           "media_type": "text/html"
         },
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=141961&legislationTypeId=1&docTypeId=2&legislationName=HB84",
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142729&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB84",
           "media_type": "application/pdf"
         }
       ],
@@ -140,11 +120,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=141961",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142729",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -152,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-01-30T12:29:52Z"
   }
 }
