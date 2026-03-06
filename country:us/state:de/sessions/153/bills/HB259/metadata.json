@@ -34,6 +34,18 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:22:28Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HB 259 - Introduced and Placed With Bill",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:29:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,7 +76,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -72,6 +86,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:22:28Z"
+    "logs_latest_update": "2026-03-06T12:29:51Z"
   }
 }

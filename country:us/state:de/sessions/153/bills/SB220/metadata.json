@@ -69,6 +69,25 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:29:52Z"
       }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:29:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:29:52Z"
+    "logs_latest_update": "2026-03-06T12:29:51Z"
   }
 }

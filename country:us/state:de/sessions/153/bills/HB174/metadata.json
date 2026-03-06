@@ -10,15 +10,15 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This bill enables family members of individuals who have committed suicide to receive support services through the present VCAP. Distributions under this Act will begin January 1 of the year following its enactment. This bill imposes a surcharge on business, residential, wireless, and prepaid wireless services that will be used to fund suicide assistance services. The fee is $0.12 per month on subscription services or $0.12 per retail transaction for prepaid services. Any funds in excess of $5,000,000 at the end of the fiscal year will be returned to the general fund. This Act will be known as the \u201cElizabeth Barnes Act.\u201d"
+      "abstract": "Like House Bill No. 174, this substitute enables family members of individuals who have died by suicide to receive support services through the present Victims Compensation Assistance Program through a Suicide Victims\u2019 Assistance Fund. This Act takes effect on July 1 following its enactment into law and the appropriation of funds into the Suicide Victims\u2019 Assistance Fund.\r\nThis substitute differs from the original bill by removing language providing funding for the bill through surcharges on business, residential, wireless, and prepaid wireless services. Instead, this substitute calls for the Suicide Victims\u2019 Assistance Fund to be funded through annual appropriations by the General Assembly. This substitute also imposes a cap on annual expenditures from the fund and requires proportional reductions to claim payments for the remainder of the year if expenditures are expected to exceed the cap or once 75% of appropriated funds have been disbursed.\r\nThis Act also calls for the General Assembly to review the expenditure cap and adjust it as appropriate every two years, beginning in Fiscal Year 2028."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in House",
-      "date": "2025-05-21",
+      "description": "Adopted in lieu of the original bill HB 174, and Assigned to Judiciary Committee in House",
+      "date": "2026-03-05",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -32,19 +32,7 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:04Z"
-      }
-    },
-    {
-      "description": "Amendment HA 1 to HB 174 - Introduced and Placed With Bill",
-      "date": "2026-01-08",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-09T12:22:21Z"
+        "log_file_created": "2026-03-06T12:29:51Z"
       }
     }
   ],
@@ -90,19 +78,19 @@
       "organization_id": null
     },
     {
-      "name": "Josue O Ortega",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
-      "organization_id": null
-    },
-    {
       "name": "Bryant L. Richardson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
       "organization_id": null
     },
     {
@@ -122,14 +110,6 @@
       "organization_id": null
     },
     {
-      "name": "Laura V. Sturgeon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
-      "organization_id": null
-    },
-    {
       "name": "Nicole Poore",
       "classification": "primary",
       "entity_type": "person",
@@ -146,6 +126,14 @@
       "organization_id": null
     },
     {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sarah McBride",
       "classification": "primary",
       "entity_type": "person",
@@ -155,49 +143,17 @@
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142357&legislationTypeId=1&docTypeId=2&legislationName=HB174",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142357&legislationTypeId=1&docTypeId=2&legislationName=HB174",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
-  "documents": [
-    {
-      "note": "Fiscal Note",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=649342",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=649343",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
+  "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142357",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142885",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "substitute": "HS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -206,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:22:21Z"
+    "logs_latest_update": "2026-03-06T12:29:51Z"
   }
 }
