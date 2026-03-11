@@ -13,7 +13,12 @@
       "abstract": "This Act increases the notice period during which notice of a hearing and complaint must be served in an action for summary possession from between 5 and 30 days to between 5 and 90 days prior to the time at which the complaint is to be heard."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Summary Possession/Increase Notice"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,16 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
       }
     }
   ],
@@ -88,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

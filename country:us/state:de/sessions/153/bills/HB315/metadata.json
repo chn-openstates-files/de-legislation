@@ -13,7 +13,12 @@
       "abstract": "This Act prohibits payment card networks from establishing or charging transaction fees on tips on credit card transactions. Violations are punishable by a penalty of $1,000 per electronic transaction and the wrongful fees must be refunded."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Tips/Prohibit Transaction Fees/Credit Cards"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 1 Favorable, 8 On Its Merits",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
       }
     }
   ],
@@ -272,6 +296,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

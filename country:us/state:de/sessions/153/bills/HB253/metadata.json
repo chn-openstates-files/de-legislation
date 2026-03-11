@@ -13,7 +13,12 @@
       "abstract": "This Act provides that a felon may receive letters testamentary, or of administration, when the Register of Wills permits it, in the Register\u2019s discretion, upon good cause shown."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Felon/Letters Testamentary/Register of Wills"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 2 Favorable, 9 On Its Merits",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
       }
     }
   ],
@@ -120,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

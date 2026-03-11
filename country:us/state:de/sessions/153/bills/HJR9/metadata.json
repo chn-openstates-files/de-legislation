@@ -13,7 +13,12 @@
       "abstract": "This Joint Resolution extends the reporting date of the Driving Under the Influence Prevention Task Force from January 1, 2026, to January 1, 2027."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DUI Prevention TF/Extend Reporting Date"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Public Safety & Homeland Security) in House with 7 On Its Merits",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety & Homeland Security",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
       }
     }
   ],
@@ -72,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

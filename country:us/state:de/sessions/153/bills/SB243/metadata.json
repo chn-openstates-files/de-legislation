@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:32:42Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to SB 243 - Introduced and Placed With Bill",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,7 +129,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -125,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:32:42Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

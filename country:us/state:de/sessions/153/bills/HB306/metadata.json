@@ -13,7 +13,12 @@
       "abstract": "This Act makes it an unlawful practice to engage in a commercial transaction with a consumer who interacts with computer technology, under circumstances where a reasonable person would believe that person is engaging with an actual human, without notifying the consumer that the consumer is communicating with a computer and not a human being.  \r\nIt provides a private right of action for damages.  It provides that a violation is an unlawful practice and prohibited trade practice. It permits the Attorney General to seek injunctive relief and a civil penalty of not more than $5 million dollars for violations. \r\nThis Act is effective 180 days after its enactment into law."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Commercial Transaction/Notification/Computer Interaction"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Technology & Telecommunications) in House with 5 On Its Merits",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Technology & Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
       }
     }
   ],
@@ -112,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }

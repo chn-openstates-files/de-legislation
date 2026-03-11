@@ -117,6 +117,30 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Passed In House by Voice Vote",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 4 ABSENT",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:34:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +265,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 1 to SS 1 for SB 230",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142895&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142895&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -253,7 +292,7 @@
   ],
   "extras": {
     "substitute": "SS 1",
-    "amendment": "SA 1"
+    "amendment": "SA 1 + HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -262,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-11T12:34:01Z"
   }
 }
