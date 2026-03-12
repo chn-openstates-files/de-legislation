@@ -13,7 +13,12 @@
       "abstract": "This Act updates the existing crime of \u201cbreach of peace or violence on election day.\u201d As rewritten, both of the following actions taken on election day or during the counting of ballots are class G felonies: (1) The use of any violence or threats of violence at or near a polling place, a Department of Elections office, or a meeting of the Board of Canvass; and (2) A breach of peace intended to impede, hinder, or interfere with the peaceful conduct of the election or reading and counting of ballots."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Election Day/Breach of Peace/Updates"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in House with 5 Favorable, 2 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -96,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

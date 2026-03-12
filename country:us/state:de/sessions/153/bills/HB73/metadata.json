@@ -13,7 +13,12 @@
       "abstract": "This Act raises the Senior property tax credit cap from $500 to $1000."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Senior Property Tax Credit/Raise Cap"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -36,15 +41,31 @@
       }
     },
     {
-      "description": "Defeated By House. Votes: 17 YES 10 NO 12 NOT VOTING 2 ABSENT. Reason Taken: hb 73 mtsr",
+      "description": "Motion to Suspend Rules Defeated By House. Votes: 17 YES 10 NO 12 NOT VOTING 2 ABSENT.",
       "date": "2025-08-13",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "failure"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
+        "log_file_created": "2026-03-12T12:32:53Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -168,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

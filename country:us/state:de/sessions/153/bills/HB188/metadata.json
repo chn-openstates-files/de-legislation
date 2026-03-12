@@ -13,7 +13,12 @@
       "abstract": "This Act allows Delaware voters who are not affiliated with a political party to vote in a political party's primary election.\r\nCurrently there are approximately 170,000 registered Delaware voters who are not affiliated with a political party.\r\nMembers of a political party are not allowed to crossover and vote in another political party's primary election"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Primary Elections/None Affiliated/Permit Voting"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,37 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 188 - Introduced and Placed With Bill",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in House with 1 Favorable, 4 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -96,7 +132,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -104,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

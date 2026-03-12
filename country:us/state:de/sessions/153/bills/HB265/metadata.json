@@ -13,7 +13,12 @@
       "abstract": "This Act provides limited immunity from prosecution for persons who seek to report a sexual offense. Under this Act a person who is a victim or witness or otherwise seeks law enforcement assistance in relation to a sexual offense may not be charged, arrested, or prosecuted, or issued a civil citation for low-level crimes relating to drug or alcohol use or possession. This Act also provides that a person\u2019s probation or pretrial release status may not be revoked or changed based on an incident for which the person would receive the limited immunity from prosecution provided under this statute."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Sexual Offense Reporting/Limited Immunity"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-09T12:22:21Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 7 Favorable, 2 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -176,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:22:21Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

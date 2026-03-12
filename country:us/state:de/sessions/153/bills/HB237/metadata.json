@@ -13,7 +13,12 @@
       "abstract": "The Delaware Entertainment Job Act is intended to encourage jobs creation, artistic endeavors and investment in the film, television, esports and videogame industry in the State of Delaware, and the attendant benefits for the economy and job growth.  Delaware is one of the only states in the Mid-Atlantic and country without some form of tax credit at a time when production of original content for streaming and at theaters is at an all-time high. Thirty-three states have some sort of production incentive.   \r\n\r\nThis legislation will provide for a thirty-percent, transferable tax credit for an investment in the state in a film, television, esports or videogame production. All qualified productions will be required to have an audit of their expenditures following the completion of production in the state before any credits will be awarded. Further, all qualified productions will be required to provide training through an internship program so that citizens may be able to gain a valuable trade. The credits will be administered by the Delaware Film, Television, and Digital Entertainment Office in cooperation with Department of Finance."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DE Entertainment Job Act/Create"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,16 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -124,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

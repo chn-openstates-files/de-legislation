@@ -51,6 +51,25 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:34:01Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 6 Favorable, 5 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:34:01Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

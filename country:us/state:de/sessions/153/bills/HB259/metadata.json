@@ -13,7 +13,12 @@
       "abstract": "This Act requires the Division of Public Health to submit a report to various government officials and post on its website the data it receives from schools regarding the number of kindergartners who meet the requirements under this chapter for screening for lead poisoning."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Lead Poisoning/Kindergarteners/DPH Reporting"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -45,6 +50,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 11 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -86,6 +109,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

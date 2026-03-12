@@ -13,7 +13,12 @@
       "abstract": "This Act provides updates to Title 30 relating to the Realty Transfer Tax. First it clarifies that the exception for spouses is not solely limited between a husband and wife and instead applies to spouses in general.  It also adds an exception for conveyances between grandparents and their grandchildren or the spouse of such a grandchild."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Realty Transfer Tax/Updates"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,16 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-28T12:25:33Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -120,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:25:33Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

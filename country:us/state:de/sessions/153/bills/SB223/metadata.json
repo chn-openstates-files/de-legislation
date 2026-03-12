@@ -69,6 +69,25 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:34:01Z"
       }
+    },
+    {
+      "description": "Assigned to Education Committee in House",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:34:01Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "This Act clarifies that paid leave for the adoption of a child may begin at one of the following times: (1) when the child is placed for adoption with the employee; (2) when the employee initiates a petition for adoption; or (3) when the adoption process is completed."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Paid Leave/Adoption/Clarification"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-09T12:22:21Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 11 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -144,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:22:21Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

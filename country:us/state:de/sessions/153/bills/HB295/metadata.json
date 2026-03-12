@@ -13,7 +13,12 @@
       "abstract": "This Act provides that the Director of the Office of Management and Budget must designate 1 or more reserved parking spaces for a veteran at certain designated state buildings and facilities. It also prohibits stopping, standing, or parking in the veteran\u2019s space. \r\nViolations of this Act are exempted from the civil penalty for parking violations that exists in Title 21. \r\nThis Act takes effect 6 months after its enactment into law.   \r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "OMB/Designate Parking Spaces/Veterans"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits, 1 Unfavorable",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -152,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }

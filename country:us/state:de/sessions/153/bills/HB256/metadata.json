@@ -13,7 +13,12 @@
       "abstract": "This Act requires public schools serving grades 7 to 12 that issue pupil identification cards to print on either side of the card the following information, which previously was optional for the public schools:\r\n(1) Teen Dating Violence Hotline:1-866-331-9474 or Text \u201cloveis\u201d to 22522.\r\n(2) Stop Bullying Now Hotline: 1-800-273-8255(TALK).\r\n\r\nSections 1 and 2 of this Act remove application dates from the previous enactments of laws related to information printed on pupil identification cards for public schools serving grades 7 to 12 and on student identification cards for public institutions of higher learning. These application dates could be interpreted to mean that the previous enactments of these laws were to be effective only during the stated school years. By removing these application dates and establishing the effective date in Section 5 of this Act, these laws will be effective on July 1, 2026.\r\n\r\nThis Act also makes technical corrections in Sections 3 and 4 of this Act to conform existing law to the standards of the Delaware Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Public School ID Cards/Hotline Numbers"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -33,6 +38,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-19T08:31:55Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 1 Favorable, 11 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:32:53Z"
       }
     }
   ],
@@ -160,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T08:31:55Z"
+    "logs_latest_update": "2026-03-12T12:32:53Z"
   }
 }
