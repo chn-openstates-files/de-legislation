@@ -10,64 +10,22 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act provides a privilege to confidential communications between a victim and a victim advocate that cannot yield except where necessary to prevent harm to the victim or another or to report child abuse as required by law. The victim can waive the privilege with a signed waiver. This Act defines a victim advocate as an employee of a victim services agency, or formal volunteer under the supervision of an employee of a victim services agency who has completed a minimum of 20 hours of advocacy training."
+      "abstract": "This Act creates a privilege for confidential communications between a victim and a victim advocate. The victim can waive the privilege with a signed waiver. The privilege may also be overcome in certain circumstances, including mandated reporting of child abuse, communications relating to the intent to commit a violent crime, and in state custody and child abuse cases. This Act defines a victim advocate as an employee of a victim services agency, or formal volunteer under the supervision of an employee of a victim services agency who has completed a minimum of 20 hours of advocacy training.\r\n\r\nThis substitute bill incorporates the change from HA1 to House Bill No. 213 regarding the exception for child abuse and state custody cases. It also explicitly excludes law-enforcement agencies and the Department of Justice from the definition of victim services agency. It clarifies that the victim advocate may claim the privilege but only on behalf of the victim. Finally, it adds a process and criteria for a defendant in a criminal case to overcome the privilege in certain circumstances. This is intended to mirror the exception to the therapist-client privilege articulated in Burns v. State, 968 A.2d 1012 (2009)."
     }
   ],
-  "other_titles": [
-    {
-      "note": "short title",
-      "title": "Privilege to Conf. Information/Victim/Victim Advocate"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in House",
-      "date": "2025-06-11",
+      "description": "was introduced and adopted in lieu of HB 213",
+      "date": "2026-03-12",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
-      }
-    },
-    {
-      "description": "Amendment HA 1 to HB 213 - Introduced and Placed With Bill",
-      "date": "2025-06-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Judiciary) in House with 6 On Its Merits",
-      "date": "2025-06-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
+        "log_file_created": "2026-03-13T12:32:31Z"
       }
     }
   ],
@@ -153,6 +111,14 @@
       "organization_id": null
     },
     {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
       "name": "Melanie Ross Levin",
       "classification": "primary",
       "entity_type": "person",
@@ -166,14 +132,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Josue O Ortega",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
       "organization_id": null
     },
     {
@@ -194,33 +152,17 @@
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142488&legislationTypeId=1&docTypeId=2&legislationName=HB213",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142488&legislationTypeId=1&docTypeId=2&legislationName=HB213",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142488",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142939",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "substitute": "HS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -229,6 +171,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-13T12:32:31Z"
   }
 }

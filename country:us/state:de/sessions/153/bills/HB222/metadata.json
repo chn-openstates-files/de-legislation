@@ -106,6 +106,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to HB 222 - Introduced and Placed With Bill",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:32:31Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HB 222 - Defeated By Senate. Votes: 6 YES 14 NO 1 NOT VOTING",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:32:31Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 14 YES 7 NO",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:32:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -160,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-13T12:32:31Z"
   }
 }

@@ -67,6 +67,25 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:32:53Z"
       }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:32:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:32:53Z"
+    "logs_latest_update": "2026-03-13T12:32:31Z"
   }
 }
