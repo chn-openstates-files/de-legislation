@@ -19,7 +19,11 @@
       "title": "Community-Owned Energy Generating Facility/Amend Definition"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb210"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
@@ -120,6 +124,18 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:32:31Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:42:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -206,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:32:31Z"
+    "logs_latest_update": "2026-03-18T12:42:37Z"
   }
 }
