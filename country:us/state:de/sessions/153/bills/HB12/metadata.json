@@ -19,7 +19,11 @@
       "title": "DE Teacher Academy/Create Scholarships"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb12"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Education Committee in House",
@@ -112,6 +116,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-11T12:34:01Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in Senate with 7 Favorable",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -252,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:34:01Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

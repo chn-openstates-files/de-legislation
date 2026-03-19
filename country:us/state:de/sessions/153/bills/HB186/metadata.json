@@ -19,7 +19,11 @@
       "title": "Combined-Cycle Gas Turbine Facility/Tax Credit"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb186"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Revenue & Finance Committee in House",
@@ -60,6 +64,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T12:32:53Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -289,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:32:53Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

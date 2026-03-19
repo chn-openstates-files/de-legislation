@@ -13,8 +13,17 @@
       "abstract": "This Act establishes the position of a Title IX Coordinator in the Department of Education, whose purpose is statewide support, guidance, and oversight related to and providing for the enforcement of compliance with Title IX as it pertains to athletics in Delaware\u2019s public schools serving grades 6 through 12. The Title IX Coordinator must do the following: \r\n1) Offer annual Title IX training for school district and charter school Title IX coordinators, administrators, athletic directors, and coaches.\r\n2) Provide non-legal technical Title IX assistance to school districts, schools, and charter schools, including model policies and best practices.   \r\n3) Collect and analyze data from school districts and charter schools to evaluate compliance with Title IX. \r\n4) Identify, create, and maintain model Title IX policies and procedures.\r\n5) Act as a liaison between public schools and federal agencies on updated rules and guidance. \r\n6) Prepare a written report by December 1 of each year summarizing activities, findings, and recommendations for improving Title IX compliance and submit it to the Governor, General Assembly, and post publicly on the Department of Education website.  \r\nThis Act requires school districts and charter schools to annually post and report to the Department of Education the following information: 1) participation rates by sex in interscholastic and intramural athletics; 2) budget and expenditure information for boys\u2019 and girls\u2019 sports programs; and 3) other information determined necessary by the Coordinator to evaluate compliance.  \r\nThe Coordinator may issue systemic or school-specific non-legal guidance or  request a school district, school, or charter school to engage in a strategic plan for improvement to address Title IX compliance.  \r\nThe Department of Education, in collaboration with the Delaware Interscholastic Athletic Association, will establish rules and regulations to implement and enforce the Act.  \r\nThe Act provides that the Department of Education must request sufficient funding to support the Coordinator position and necessary upgrades to the Department\u2019s data system to enable collection and analysis of athletics budget and expenditure data disaggregated by sex."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Title IX Coordinator/DOE/Create"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb300"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Education Committee in House",
@@ -33,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 7 Favorable, 7 On Its Merits",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -168,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

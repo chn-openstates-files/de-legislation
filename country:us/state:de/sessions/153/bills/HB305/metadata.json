@@ -13,8 +13,17 @@
       "abstract": "This Act provides a roadmap via an observational study on a small but representative group of diabetic patients to change standard healthcare from current reactive \u201csick care\u201d to proactive \u201cwell care\u201d. This will be accomplished by using a Delaware health system combined with a technology partner to regularly test, measure and manage, and incentivize diabetic patients and their providers to improve the health outcomes for Delawareans and drive down healthcare costs. The length of the observational study will be 3 years. During that time, data analysis will track results to determine if this Pilot Program shall be renewed and expanded.\r\nThis Act requires no fiscal note in that this Pilot Program is to be federally funded through the Federal Rural Health Transformation Program."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Diabetes Study/Sick Care to Well Care"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb305"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Health & Human Development Committee in House",
@@ -33,6 +42,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 9 On Its Merits",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -136,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

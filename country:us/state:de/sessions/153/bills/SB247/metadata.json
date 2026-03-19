@@ -19,7 +19,11 @@
       "title": "Bank/Credit Union/Counties/Municipalities/Revenues"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb247"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
@@ -38,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 5 Favorable",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -141,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

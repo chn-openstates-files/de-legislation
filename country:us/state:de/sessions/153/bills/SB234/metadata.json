@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act creates a definition of \u201cfirst responder\u201d in Chapter 31 of Title 20, pertaining to emergency management. Currently, the term is referenced, but it is not actually defined, creating potential uncertainty about who qualifies as a first responder in this context. This Act defines a first responder as a federal, state, or local law enforcement officer, fire, or emergency medical services personnel, hazardous materials response team member, 911 dispatcher, emergency manager, or other individual who is responsible for the protection and preservation of life or property and who is called on to respond to emergencies."
+      "abstract": "This Act creates a definition of \u201cfirst responder\u201d in Chapter 31 of Title 20, pertaining to emergency management. Currently, the term is referenced, but it is not actually defined, creating potential uncertainty about who qualifies as a first responder in this context. This Act defines a first responder as a federal, state, or local law enforcement officer, firefighter, emergency medical services personnel member, hazardous materials response team member, 911 dispatcher, emergency manager, or other individual who is responsible for the protection and preservation of life or property and who is called on to respond to emergencies.\r\n\r\nThis Act is a substitute for Senate Bill No. 234 and differs from Senate Bill No. 234 in that it adds a definition of \u201claw enforcement officer\u201d to clarify which law enforcement personnel are included in the definition of \u201cfirst responder\u201d and makes minor technical corrections to the definition of \u201cfirst responder\u201d."
     }
   ],
   "other_titles": [
@@ -19,11 +19,15 @@
       "title": "First Responder/Definition/Create"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb234"
+    }
+  ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Corrections & Public Safety Committee in Senate",
-      "date": "2026-02-19",
+      "description": "Adopted in lieu of the original bill SB 234, and Assigned to Corrections & Public Safety Committee in Senate",
+      "date": "2026-03-17",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
@@ -37,7 +41,26 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-02-20T12:31:54Z"
+        "log_file_created": "2026-03-19T12:36:19Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Corrections & Public Safety) in Senate with 4 Favorable",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections & Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:36:19Z"
       }
     }
   ],
@@ -65,11 +88,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142856",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142957",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "SS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -77,6 +102,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:31:54Z"
+    "logs_latest_update": "2026-03-19T12:36:19Z"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Executive) in Senate with 6 Favorable, 1 On Its Merits",
+    "date": "2026-03-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Executive",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SJR 12"
+}
