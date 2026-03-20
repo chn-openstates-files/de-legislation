@@ -10,77 +10,26 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act prohibits the operation of private detention facilities in the State of Delaware."
+      "abstract": "House Substitute for House Bill No. 151 prohibits the State, a unit of local government, or any agency, officer, employee, or agent thereof, from doing the following with respect to a detention facility owned, managed, or operated by a private entity: (1) Enter into an agreement of any kind for the detention of an individual with; (2) Pay, reimburse, subsidize, or defray in any way any cost related to the sale, purchase, construction, development, ownership, management, or operation of;  (3) Receive per diem, per detainee, or any other payment related to the detention of an individual in; (4) Give any financial incentive or benefit to any private entity or person in connection with the sale, purchase, construction, development, ownership, management, or operation of.  \r\nThis House Substitute is different from House Bill No. 151 in the following ways: \r\n(1) The original Act prohibited the operation of private detention facilities and did not address the government\u2019s interaction with them.  This Substitute does not prohibit the operation of private detention centers. \r\n(2) It adds an exemption that excludes Residential Alternative to Detention facilities from the definition of a private detention facility\r\n(3) It exempts facilities that house a program to provide services in a nonsecure residential setting for juveniles under the jurisdiction of Family Court from the definition of a private detention facility. It also provides a definition of \u201cnonsecure residential setting\u201d.\r\nThe exemption for nonsecure residential settings for juveniles sunsets on February 1, 2028."
     }
   ],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "short title",
-      "title": "Private Detention Facilities/Prohibited in Delaware"
+      "identifier": "ocd-bill-de-153-hb151"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in House",
-      "date": "2025-05-01",
+      "description": "was introduced and adopted in lieu of HB 151",
+      "date": "2026-03-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
-      }
-    },
-    {
-      "description": "Amendment HA 1 to HB 151 - Introduced and Placed With Bill",
-      "date": "2025-05-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Judiciary) in House with 6 Favorable, 1 On Its Merits",
-      "date": "2026-01-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-01-15T12:22:46Z"
-      }
-    },
-    {
-      "description": "Amendment HA 2 to HB 151 - Introduced and Placed With Bill",
-      "date": "2026-01-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-28T12:25:33Z"
+        "log_file_created": "2026-03-20T12:32:38Z"
       }
     }
   ],
@@ -102,6 +51,38 @@
       "organization_id": null
     },
     {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eric Morrison",
       "classification": "primary",
       "entity_type": "person",
@@ -110,11 +91,11 @@
       "organization_id": null
     },
     {
-      "name": "Claire Snyder-Hall",
+      "name": "David L. Wilson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
       "organization_id": null
     },
     {
@@ -126,11 +107,19 @@
       "organization_id": null
     },
     {
-      "name": "Spiros Mantzavinos",
+      "name": "Melanie Ross Levin",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
       "organization_id": null
     },
     {
@@ -140,36 +129,36 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
       "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142172&legislationTypeId=1&docTypeId=2&legislationName=HB151",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142172&legislationTypeId=1&docTypeId=2&legislationName=HB151",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142172",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142973",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "HA 1, HA 2"
+    "substitute": "HS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -178,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:25:33Z"
+    "logs_latest_update": "2026-03-20T12:32:38Z"
   }
 }
