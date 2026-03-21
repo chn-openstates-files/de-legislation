@@ -19,7 +19,11 @@
       "title": "Snow and Ice/Removal/Vehicles/Civil Penalty"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb233"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
@@ -38,6 +42,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-30T12:29:52Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 233 - Introduced and Placed With Bill",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:24:29Z"
       }
     }
   ],
@@ -117,7 +133,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -125,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:29:52Z"
+    "logs_latest_update": "2026-03-21T12:24:29Z"
   }
 }
