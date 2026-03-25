@@ -10,53 +10,31 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act updates the existing crime of \u201cbreach of peace or violence on election day.\u201d As rewritten, both of the following actions taken on election day or during the counting of ballots are class G felonies: (1) The use of any violence or threats of violence at or near a polling place, a Department of Elections office, or a meeting of the Board of Canvass; and (2) A breach of peace intended to impede, hinder, or interfere with the peaceful conduct of the election or reading and counting of ballots."
+      "abstract": "House Substitute No. 1 for House Bill No. 301, like the original, updates the existing crime of \u201cbreach of peace or violence on election day.\u201d Under this statute, it is unlawful to take the following actions on a day of election or early in-person voting or during the reading and counting of ballots with the intent to impede or interfere with the election: (1) The use of any violence or threats of violence at or near a polling place, a Department of Elections office, a meeting of the Board of Canvass, or any other place where votes are cast, stored, read, or counted; (2) A breach of peace at or near the same places; and (3) Hindering, controlling, coercing, or intimidating or attempting to hinder, control, coerce, or intimidate any qualified elector from exercising their right to vote. A violation of the statute is a class G felony.\r\nThis substitute differs from the original HB 301 in that it makes the intent to impede or interfere with the election an element of the crime for any of the prohibited acts. It also adds \u201cany other place where votes are cast, stored, read, or counted\u201d to the locations where the acts are prohibited. It adds the third act of \u201chindering, controlling, coercing or intimidating a voter\" from or in exercising their right to vote as a prohibited act."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "Election Day/Breach of Peace/Updates"
+      "title": "Election Day/Breach of Peace or Violence"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb301"
+    }
+  ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Elections & Government Affairs Committee in House",
-      "date": "2026-03-05",
+      "description": "was introduced and adopted in lieu of HB 301",
+      "date": "2026-03-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Elections & Government Affairs",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:29:51Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Elections & Government Affairs) in House with 5 Favorable, 2 On Its Merits",
-      "date": "2026-03-11",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Elections & Government Affairs",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-03-12T12:32:53Z"
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -108,11 +86,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142898",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142996",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -120,6 +100,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:32:53Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }

@@ -19,7 +19,11 @@
       "title": "Optometrists/Add/Health Care Loan Repayment Program"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb260"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Health & Human Development Committee in House",
@@ -107,6 +111,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-12T12:32:53Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -258,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:32:53Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }

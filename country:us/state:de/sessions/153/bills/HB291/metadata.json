@@ -13,8 +13,17 @@
       "abstract": "This Act prohibits the Department of Corrections from entering into contracts with any for-profit entity for the use of inmate labor. \r\nThis Act does not apply to \u00a7 6533 of Title 11 relating to outside employment and work release."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DOC/Prohibition/Inmate Labor/For-Profit Entity"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb291"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Corrections Committee in House",
@@ -33,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Corrections) in House with 7 Favorable, 1 On Its Merits",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -136,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }

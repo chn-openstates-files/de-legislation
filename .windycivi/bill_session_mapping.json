@@ -414,6 +414,11 @@
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
+  "SCR153": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
   "SB206": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
@@ -455,6 +460,11 @@
     "date_folder": "2025-2026"
   },
   "HCR49": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "SB264": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -615,6 +625,11 @@
     "date_folder": "2025-2026"
   },
   "SB239": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "SCR157": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -1884,6 +1899,11 @@
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
+  "SCR158": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
   "HB310": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
@@ -2154,12 +2174,22 @@
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
+  "HCR104": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
   "HB138": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
   "SB191": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "HCR96": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -2639,6 +2669,11 @@
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
+  "HB328": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
   "SB10": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
@@ -2750,6 +2785,11 @@
     "date_folder": "2025-2026"
   },
   "SB139": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "SCR154": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -3060,6 +3100,11 @@
     "date_folder": "2025-2026"
   },
   "HB192": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "SCR155": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -3445,6 +3490,11 @@
     "date_folder": "2025-2026"
   },
   "SCR32": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "HCR108": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
@@ -3960,6 +4010,11 @@
     "date_folder": "2025-2026"
   },
   "HB63": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "SB265": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"

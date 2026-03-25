@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment HA 4 to HB 133 - Passed In House by Voice Vote",
+    "date": "2026-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 133"
+}

@@ -19,7 +19,11 @@
       "title": "Tickets/Sale/Exchange/Prohibit Certain Actions"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb181"
+    }
+  ],
   "actions": [
     {
       "description": "Adopted in lieu of the original bill SB 181, and Assigned to Finance Committee in Senate",
@@ -38,6 +42,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -79,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }

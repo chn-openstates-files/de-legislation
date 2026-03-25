@@ -13,8 +13,17 @@
       "abstract": "This bill excludes a person convicted and sentenced for a class A felony from being able to have their sentence of incarceration modified under \u00a7 4217 of Title 11."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Sentence Modification Exclusion/Class A Felony"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb289"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Corrections Committee in House",
@@ -33,6 +42,16 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Motion to Release Failed",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -112,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }

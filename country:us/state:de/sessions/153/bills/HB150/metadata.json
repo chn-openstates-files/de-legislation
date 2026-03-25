@@ -13,7 +13,12 @@
       "abstract": "This Act prohibits civil arrests from being made in courthouses or Department of Labor Offices where the Delaware Industrial Accident Board conducts hearings. The prohibition does not apply where there is a judicial order authorizing the civil arrest or where the law enforcement officer seeking to make the civil arrest has provided the court or administrative body with detailed advance notice regarding the proposed arrest. \r\nThis Substitute differs from the original House Bill No. 150 in that it adds locations and proceedings related to the Delaware Industrial Accident Board to the prohibition and incorporates changes made by House Amendment No. 2 into the body of the bill."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Civil Arrest/Courthouses/Prohibit w/o Judicial Warrant"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb150"
@@ -30,6 +35,61 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-20T12:32:38Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 25 YES 13 NO 3 ABSENT",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in Senate",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:40:13Z"
       }
     }
   ],
@@ -132,7 +192,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 150",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142998&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142998&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -142,7 +218,8 @@
     }
   ],
   "extras": {
-    "substitute": "HS 1"
+    "substitute": "HS 1",
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -151,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:32:38Z"
+    "logs_latest_update": "2026-03-25T12:40:13Z"
   }
 }
