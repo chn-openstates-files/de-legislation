@@ -55,6 +55,44 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:40:13Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 3 Favorable, 2 On Its Merits",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:40:13Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

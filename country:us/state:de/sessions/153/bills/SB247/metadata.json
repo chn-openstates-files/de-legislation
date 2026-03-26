@@ -74,6 +74,25 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:40:13Z"
       }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:40:13Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

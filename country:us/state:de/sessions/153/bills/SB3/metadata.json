@@ -19,7 +19,11 @@
       "title": "Const. Amend/First Leg/Voting/No-Excuse Absentee"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb3"
+    }
+  ],
   "actions": [
     {
       "description": "was introduced and adopted in lieu of SB 3",
@@ -80,6 +84,18 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
       }
     }
   ],
@@ -297,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

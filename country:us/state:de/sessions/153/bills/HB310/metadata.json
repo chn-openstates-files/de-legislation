@@ -13,8 +13,17 @@
       "abstract": "This Act excludes large energy use facilities from the definition of a qualified facility for purposes of determining eligibility for a tax credit or license fee reduction for the creation of employment and qualified investment in business facilities."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Large Energy Use Facilities/Exclude/Tax Credits"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb310"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Revenue & Finance Committee in House",
@@ -33,6 +42,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Revenue & Finance) in House with 8 On Its Merits",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Revenue & Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
       }
     }
   ],
@@ -136,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

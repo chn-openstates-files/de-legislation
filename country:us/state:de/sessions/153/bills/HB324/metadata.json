@@ -13,7 +13,12 @@
       "abstract": "This Act requires tattoo parlors to post signs raising awareness about human trafficking. This Act also requires the Department of Health and Social Services to encourage tattoo parlors and body piercing establishments to have individuals working for them complete training on recognizing, responding, and reporting signs of human trafficking, as well as referring clients to resources for victims of human trafficking. The Department must provide or make available to tattoo parlors and body piercing establishments a list of nonprofit organizations that provide this training, which must be available at no cost to any person who works at a tattoo parlor or body piercing establishment. This Act takes effect 1 year after its enactment into law."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Tattoo Parlors/Post Signs/Human Trafficking"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb324"
@@ -37,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-19T12:36:19Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 5 Favorable, 4 On Its Merits",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
       }
     }
   ],
@@ -108,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T12:36:19Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

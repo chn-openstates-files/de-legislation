@@ -19,7 +19,11 @@
       "title": "New Castle County/Assistant County Attorney/Establish"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb237"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
@@ -38,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-20T12:31:54Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 2 Favorable, 2 On Its Merits",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
       }
     }
   ],
@@ -93,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:31:54Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }

@@ -19,7 +19,11 @@
       "title": "Charter Change/Village of Arden/Replace"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb220"
+    }
+  ],
   "actions": [
     {
       "description": "Adopted in lieu of the original bill SB 220, and Assigned to Elections & Government Affairs Committee in Senate",
@@ -88,6 +92,25 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:29:51Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits, 1 Unfavorable",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T12:46:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:29:51Z"
+    "logs_latest_update": "2026-03-26T12:46:52Z"
   }
 }
