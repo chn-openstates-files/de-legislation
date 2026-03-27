@@ -97,6 +97,30 @@
       "_processing": {
         "log_file_created": "2026-03-26T12:46:52Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Passed In House by Voice Vote",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 33 YES 7 NO 1 ABSENT",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -293,6 +317,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 1 to SS 1 for SB 3",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143010&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143010&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -304,7 +343,8 @@
     }
   ],
   "extras": {
-    "substitute": "SS 1"
+    "substitute": "SS 1",
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -313,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T12:46:52Z"
+    "logs_latest_update": "2026-03-27T12:37:34Z"
   }
 }

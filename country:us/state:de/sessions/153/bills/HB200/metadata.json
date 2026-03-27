@@ -74,6 +74,49 @@
       "_processing": {
         "log_file_created": "2026-03-18T12:42:37Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 1 NOT VOTING 1 ABSENT",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
+    },
+    {
+      "description": "Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,7 +162,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 200",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142947&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142947&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -129,7 +188,8 @@
     }
   ],
   "extras": {
-    "substitute": "HS 1"
+    "substitute": "HS 1",
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -138,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-18T12:42:37Z"
+    "logs_latest_update": "2026-03-27T12:37:34Z"
   }
 }

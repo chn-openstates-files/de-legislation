@@ -74,6 +74,25 @@
       "_processing": {
         "log_file_created": "2026-03-26T12:46:52Z"
       }
+    },
+    {
+      "description": "Assigned to Housing Committee in House",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:37:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T12:46:52Z"
+    "logs_latest_update": "2026-03-27T12:37:34Z"
   }
 }
