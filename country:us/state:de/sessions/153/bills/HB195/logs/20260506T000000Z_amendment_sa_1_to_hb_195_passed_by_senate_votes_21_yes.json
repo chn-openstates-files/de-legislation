@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment SA 1 to HB 195 - Passed By Senate. Votes: 21 YES",
+    "date": "2026-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 195"
+}

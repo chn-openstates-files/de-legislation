@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Judiciary) in House with 5 Favorable, 3 On Its Merits, 1 Unfavorable",
+    "date": "2026-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 232"
+}

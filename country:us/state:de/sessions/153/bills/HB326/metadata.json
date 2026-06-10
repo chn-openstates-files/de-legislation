@@ -13,7 +13,12 @@
       "abstract": "This Act increases the penalty when an individual commits theft by impersonating a family member of the victim.  A person convicted of a violation of this section shall be imprisoned for not less than 60 days. The minimum sentence under this section may not be suspended."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Theft by Impersonation of a Family Member/Penalty"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb326"
@@ -37,6 +42,79 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-19T12:36:19Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 7 On Its Merits",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 326 - Introduced and Placed With Bill",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 326 - Passed In House by Voice Vote",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 33 YES 2 NO 6 ABSENT",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in Senate",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -67,7 +145,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HB 326",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143112&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143112&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -76,7 +170,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -84,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T12:36:19Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

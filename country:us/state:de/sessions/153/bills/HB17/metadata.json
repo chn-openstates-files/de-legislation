@@ -117,6 +117,49 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:40:13Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 6 Favorable",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:40:13Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

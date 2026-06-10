@@ -92,6 +92,24 @@
       "_processing": {
         "log_file_created": "2026-03-27T12:37:34Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Legislative Oversight & Sunset) in Senate with 4 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:37:34Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of SB 189",
+    "date": "2026-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 189"
+}

@@ -13,7 +13,12 @@
       "abstract": "This Act requires that if public works project is for a school district and has an aggregate cost of $1 million or more, a contract relating to that public works project, advertised after December 31, 2026, must include a project labor agreement with the Delaware Building and Construction Trades Council unless there was only 1 bid for the craft under the contract. \r\n\r\nA project labor agreement is a type of collective bargaining agreement in the construction industry that is generally negotiated before construction begins. Project labor agreements are intended to provide a legally binding and enforceable contract primarily related to labor conditions and labor-management relations. \r\n\r\nThe requirements under this Act are not regulatory. Under existing law, school districts must comply with the procurement requirements for State agencies under Chapter 69 of Title 29. As such, the requirements under this Act apply only to contracts where this State is acting as a market participant and has a proprietary interest."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Public Works Project/School District/Project Labor Agreement/Require"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-sb272"
@@ -37,6 +42,80 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-27T12:37:34Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Labor) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 272 - Introduced and Placed With Bill",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 272 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 15 YES 5 NO 1 ABSENT",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Labor Committee in House",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -123,7 +202,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 272",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143370&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143370&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -132,7 +227,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -140,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:37:34Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

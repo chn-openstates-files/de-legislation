@@ -55,6 +55,114 @@
       "_processing": {
         "log_file_created": "2026-03-24T12:43:04Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Agriculture) in Senate with 1 Favorable, 4 On Its Merits",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 2 to SB 254 - Introduced and Placed With Bill",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 3 to SB 254 - Introduced and Placed With Bill",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 254 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 2 to SB 254 - Stricken in Senate",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 3 to SB 254 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Agriculture Committee in House",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,7 +224,38 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 254",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142985&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142985&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SA 3 to SB 254",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143146&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143146&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -126,7 +265,7 @@
     }
   ],
   "extras": {
-    "amendment": "SA 1"
+    "amendment": "SA 1, SA 3"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -135,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T12:43:04Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

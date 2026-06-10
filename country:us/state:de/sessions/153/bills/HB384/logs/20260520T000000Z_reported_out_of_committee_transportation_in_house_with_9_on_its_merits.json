@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Transportation) in House with 9 On Its Merits",
+    "date": "2026-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 384"
+}

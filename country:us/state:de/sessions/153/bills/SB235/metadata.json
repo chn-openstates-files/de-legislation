@@ -93,6 +93,25 @@
       "_processing": {
         "log_file_created": "2026-03-27T12:37:34Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Housing) in House with 2 Favorable, 5 On Its Merits",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:37:34Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

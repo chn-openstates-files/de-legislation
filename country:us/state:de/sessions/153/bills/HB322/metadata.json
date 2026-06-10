@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act permits employees of, or security personnel working for, a health-care, medical, or dental facility, to take any person presenting a security or safety risk at such premises into custody and detain the person in a reasonable manner on the premises for a reasonable time, for the purpose of summoning a law-enforcement officer."
+      "abstract": "This Act is a substitute for House Bill No. 322 which permits employees of, or security personnel working for, a health-care institution, as defined under Chapter 25C of Title 16, or a medical or dental practice licensed under Title 24, for the purpose of summoning a law-enforcement officer, take any person presenting a security or safety risk at such premises into custody and detain the person in a reasonable manner on the premises for a reasonable time. \r\nThis House Substitute to House Bill No. 322 differs from the initial bill as it clarifies the definition of health-care institution, medical practice, and dental practice."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "Detention/Health-Care Facility/Permit/LE"
+      "title": "Health-Care Institution/Security or Safety Risk/Detain"
     }
   ],
   "other_identifiers": [
@@ -26,41 +26,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in House",
-      "date": "2026-03-17",
+      "description": "was introduced and adopted in lieu of HB 322",
+      "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-18T12:42:37Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Judiciary) in House with 2 Favorable, 7 On Its Merits",
-      "date": "2026-03-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-03-26T12:46:52Z"
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -72,14 +46,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
       "organization_id": null
-    },
-    {
-      "name": "Marie Pinkney",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -88,11 +54,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142950",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143345",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -100,6 +68,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T12:46:52Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

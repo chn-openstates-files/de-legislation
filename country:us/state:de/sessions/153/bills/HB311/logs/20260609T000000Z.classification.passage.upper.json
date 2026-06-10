@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed By Senate. Votes: 19 YES 1 NOT VOTING 1 ABSENT",
+    "date": "2026-06-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 311"
+}

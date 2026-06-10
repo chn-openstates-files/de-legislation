@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of HB 370",
+    "date": "2026-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 370"
+}

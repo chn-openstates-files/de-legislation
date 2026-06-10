@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act requires long-term care facilities to fully disclose ownership information for the facility and disclose ownership information to residents prior to the transfer of ownership of a facility."
+      "abstract": "This Act is a substitute for Senate Bill No. 196. Like Senate Bill No. 196, this Act requires long-term care facilities to fully disclose ownership information for the facility and disclose ownership information to residents prior to the transfer of ownership of a facility. This Act differs from Senate Bill No. 196 in the following ways:\r\n1. It changes the definition of \"facility owner\" to align with federal regulations.\r\n2. It modifies the requirements for a long-term care facility to include a list of facility owners on marketing and promotional materials, instead requiring that the list of facility owners be found on the long-term care facility's website, and that any marketing or promotional materials include a statement directing recipients of the materials to the facility's website for a list of owners.\r\n3. It amends the timeline for a long-term care facility to disclose a proposed transfer of ownership to no more than 30 calendar days after receiving approval of required modification of ownership and control paperwork from the Department.\r\n4. It clarifies the requirements of both current and proposed new facility owners in disclosing a transfer of ownership to residents and, if applicable, authorized representatives of residents of the long-term care facility.\r\n5. It modifies the requirement that the disclosure of disciplinary actions against the facility to be limited to those actions resulting from incidents that threatened the health, safety, or welfare of a resident.\r\n6. It removes an explicit statement of the Department's authority to delay or deny the transfer of a license due to previous disciplinary actions.\r\n7. It exempts nonprofit corporations from having to disclose certain information.\r\n8. It explicitly exempts the requirements of this Act from applying to certain actions that began prior to the effective date of this Act."
     }
   ],
   "other_titles": [
@@ -19,11 +19,15 @@
       "title": "Long-Term Care Facilities/Disclose Ownership Information"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb196"
+    }
+  ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Health & Social Services Committee in Senate",
-      "date": "2025-06-26",
+      "description": "Adopted in lieu of the original bill SB 196, and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
@@ -37,7 +41,25 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:04Z"
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 5 On Its Merits",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -51,73 +73,27 @@
       "organization_id": null
     },
     {
-      "name": "John \"Jack\" Walsh",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
-      "organization_id": null
-    },
-    {
       "name": "Ray Seigfried",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
       "organization_id": null
-    },
-    {
-      "name": "Bryant L. Richardson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Eric Morrison",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Claire Snyder-Hall",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142636&legislationTypeId=1&docTypeId=2&legislationName=SB196",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142636&legislationTypeId=1&docTypeId=2&legislationName=SB196",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142636",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143390",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "SS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -125,6 +101,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

@@ -48,6 +48,44 @@
       "_processing": {
         "log_file_created": "2026-03-27T12:37:34Z"
       }
+    },
+    {
+      "description": "Assigned to Sunset Committee (Policy Analysis & Government Accountability) Committee in House",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability)",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Sunset Committee (Policy Analysis & Government Accountability)) in House with 1 Favorable, 2 On Its Merits",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -200,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:37:34Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

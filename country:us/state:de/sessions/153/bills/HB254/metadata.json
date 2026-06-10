@@ -111,6 +111,30 @@
       "_processing": {
         "log_file_created": "2026-03-26T12:46:52Z"
       }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T12:46:52Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

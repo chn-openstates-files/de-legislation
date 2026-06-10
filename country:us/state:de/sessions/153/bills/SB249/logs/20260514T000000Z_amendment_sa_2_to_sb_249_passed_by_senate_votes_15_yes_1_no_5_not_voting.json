@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment SA 2 to SB 249 - Passed By Senate. Votes: 15 YES 1 NO 5 NOT VOTING",
+    "date": "2026-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 249"
+}

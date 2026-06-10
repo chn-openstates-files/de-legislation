@@ -19,7 +19,11 @@
       "title": "Child Care Complaint Investigation Unit/OCCL"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb204"
+    }
+  ],
   "actions": [
     {
       "description": "Adopted in lieu of the original bill HB 204, and Assigned to Education Committee in House",
@@ -75,6 +79,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-16T12:22:18Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Appropriations) in House with 4 On Its Merits",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -152,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:22:18Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

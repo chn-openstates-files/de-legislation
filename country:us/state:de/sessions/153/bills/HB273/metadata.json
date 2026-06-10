@@ -13,8 +13,17 @@
       "abstract": "This Act prohibits employers from asking employees or potential employees about political preferences, including donations the employee makes to candidates for office or political committees.  It also prohibits employers from taking any adverse action against an employee based on political affiliation or preference.  The prohibition does not apply if a political affiliation or preference is a bona fide occupational qualification of the employment. It also does not apply if employer disclosure of employee contributions is required by federal or state law."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Political Preferences/Employees/Prohibit Asking"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb273"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Labor Committee in House",
@@ -33,6 +42,49 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-21T12:25:00Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 273 - Introduced and Placed With Bill",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Labor) in House with 4 Favorable, 4 On Its Merits",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HB 273 - Introduced and Placed With Bill",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -192,7 +244,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1, HA 2"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -200,6 +254,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:25:00Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

@@ -10,27 +10,105 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act restricts law enforcement from cooperating with federal agencies conducting civil immigration enforcement activities at child-serving entities, places of worship, or health-care facilities without permission from the Attorney General.\r\nThis Act only applies to State and local law enforcement and does not apply to or restrict the actions of federal law enforcement officers or agents. This Act does not apply to requests for or existing agreements for cooperation relating to criminal matters or civil matters that are not related to immigration enforcement. This Act does not restrict State or local law enforcement from cooperating in activities related to criminal immigration enforcement matters. \r\nThis Act does not create any liability for State or local law enforcement. \r\nThis Act is a substitute for and differs from HB 94 by broadening the types of facilities where state and local police or constable cooperation in civil law enforcement is limited and defining definitions of those facility types. This substitute also imposes a 48 hour deadline on the AG to respond to requests for cooperation and clarifies that if a request is not responded to within that time the request is authorized."
+      "abstract": "This Act restricts State and local law-enforcement from cooperating with federal agencies conducting civil immigration enforcement activities at child-serving entities, institutions of higher education, places of worship, or health-care facilities except in exigent circumstances.\r\nThis Act is a substitute for and differs from House Bill No. 94 and House Substitute 1 for House Bill No. 94 by simply prohibiting direct participation by law-enforcement in civil enforcement proceedings unless an exigent circumstance exists, rather than requiring the permission of the Attorney General. If law-enforcement does participate in such an activity because of an exigent circumstance, a report must be submitted to the Police Officer Standards and Training Commission and the Department of Safety and Homeland Security within 48 hours. These reports are to be aggregated in a biannual report and delivered to the General Assembly."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "LE/Restrict Cooperating/Fed. Agencies/Immigration"
+      "title": "LE/Restriction Cooperation/Fed. Agencies/Immigration"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb94"
+    }
+  ],
   "actions": [
     {
       "description": "was introduced and adopted in lieu of HB 94",
-      "date": "2025-06-12",
+      "date": "2026-04-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:47:05Z"
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 2 - Introduced and Placed With Bill",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 2 - Passed In House by Voice Vote",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 27 YES 14 NO",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Corrections & Public Safety Committee in Senate",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections & Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Corrections & Public Safety) in Senate with 4 Favorable",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections & Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -44,11 +122,11 @@
       "organization_id": null
     },
     {
-      "name": "Josue O Ortega",
+      "name": "Kerri Evelyn Harris",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
       "organization_id": null
     },
     {
@@ -68,27 +146,19 @@
       "organization_id": null
     },
     {
-      "name": "Bryant L. Richardson",
+      "name": "Stell Parker Selby",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
       "organization_id": null
     },
     {
-      "name": "Nicole Poore",
+      "name": "Mara Gorman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ray Seigfried",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
       "organization_id": null
     },
     {
@@ -100,42 +170,50 @@
       "organization_id": null
     },
     {
-      "name": "David L. Wilson",
+      "name": "Ray Seigfried",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
       "organization_id": null
     },
     {
-      "name": "Madinah Wilson-Anton",
+      "name": "Sarah McBride",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Madinah Wilson-Anton\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
       "organization_id": null
     },
     {
-      "name": "Spiros Mantzavinos",
+      "name": "David P. Sokola",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Bill Text",
+      "note": "HA 1 to HS 2 for HB 94",
       "links": [
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142510&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB94",
-          "media_type": "text/html"
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143108&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
         },
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142510&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB94",
-          "media_type": "application/pdf"
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143108&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -146,12 +224,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142510",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143081",
       "note": "text/html"
     }
   ],
   "extras": {
-    "substitute": "HS 1"
+    "substitute": "HS 2",
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -160,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

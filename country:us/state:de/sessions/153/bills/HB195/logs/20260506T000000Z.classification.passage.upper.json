@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed By Senate. Votes: 14 YES 5 NO 2 NOT VOTING",
+    "date": "2026-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 195"
+}

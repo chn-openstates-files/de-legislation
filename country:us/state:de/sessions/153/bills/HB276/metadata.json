@@ -13,8 +13,17 @@
       "abstract": "This Act permits the value of items stolen at separate times to be grouped and prosecuted as one charge, if the thefts were part of a pattern. It also allows the occurrence of an act in one jurisdiction to be used as evidence of a pattern being charged in another jurisdiction.\r\nThis Act also makes technical corrections to existing law to conform to the standards of the Delaware Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Stolen Items/Grouping/One Charge"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb276"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Judiciary Committee in House",
@@ -33,6 +42,46 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-22T12:25:11Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 8 On Its Merits",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 276 - Introduced and Placed With Bill",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -120,7 +169,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -128,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:25:11Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

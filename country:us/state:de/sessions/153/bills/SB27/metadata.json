@@ -19,7 +19,11 @@
       "title": "New Americans/Office of/Establish"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb27"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
@@ -209,6 +213,18 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:29:52Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to SB 27 - Introduced and Placed With Bill",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -323,7 +339,7 @@
     }
   ],
   "extras": {
-    "amendment": "SA 2"
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -332,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:29:52Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

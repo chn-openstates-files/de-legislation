@@ -13,7 +13,12 @@
       "abstract": "This Act amends Title 16 to establish statewide standards for levels of neonatal care for facilities that operate neonatal nurseries or neonatal intensive care units. The Act requires facilities to comply with nationally recognized standards for levels of neonatal care established by the American Academy of Pediatrics (AAP), ensuring that newborns receive care in facilities equipped to meet the complexity of their medical needs. Under the Act, the Secretary of the Department of Health and Social Services (DHSS) will designate each facility's level of neonatal care based on compliance with the AAP standards, including staffing, equipment, facility capabilities, and patient protocols. The Act further establishes additional requirements for facilities providing Level IV NICU services which care for the most critically ill and medically complex newborns. DHSS must adopt implementing rules by January 30, 2027, and will seek input from the Delaware Perinatal Quality Collaborative and existing NICU providers in developing these rules."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Neonatal Care/Establish Standards/Nurseries/NICU"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb327"
@@ -37,6 +42,86 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-20T12:32:38Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 11 On Its Merits",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 33 YES 3 NO 5 ABSENT",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 7 Favorable",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HB 327 - Introduced and Placed With Bill",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -188,7 +273,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "SA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -196,6 +283,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:32:38Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

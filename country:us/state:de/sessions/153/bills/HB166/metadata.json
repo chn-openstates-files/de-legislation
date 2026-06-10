@@ -19,7 +19,11 @@
       "title": "Child Sexual Abuse Material/Correct Terminology"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb166"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Judiciary Committee in House",
@@ -87,6 +91,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -238,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:05Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

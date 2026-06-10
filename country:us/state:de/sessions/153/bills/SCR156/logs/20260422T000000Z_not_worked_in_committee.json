@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Not Worked in Committee",
+    "date": "2026-04-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR 156"
+}

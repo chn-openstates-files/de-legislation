@@ -19,7 +19,11 @@
       "title": "No Contact Provision/Noncompliance/Felony"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb168"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Judiciary Committee in House",
@@ -112,6 +116,36 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HB 168 - Introduced and Placed With Bill",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 6 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -223,7 +257,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "amendment": "SA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -232,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

@@ -19,7 +19,11 @@
       "title": "Const. Amend/1st Leg/Reproductive Freedom/Ensure"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb5"
+    }
+  ],
   "actions": [
     {
       "description": "Adopted in lieu of the original bill SB 5, and Assigned to Health & Social Services Committee in Senate",
@@ -136,6 +140,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 3 On Its Merits",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -337,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }

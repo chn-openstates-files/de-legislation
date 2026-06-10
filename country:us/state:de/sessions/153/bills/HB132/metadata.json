@@ -19,7 +19,11 @@
       "title": "Videophone Systems/Funding/Surcharges/Repeal"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb132"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Judiciary Committee in House",
@@ -76,6 +80,18 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 132 - Introduced and Placed With Bill",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:48:59Z"
       }
     }
   ],
@@ -223,7 +239,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -231,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-06-10T14:48:59Z"
   }
 }
