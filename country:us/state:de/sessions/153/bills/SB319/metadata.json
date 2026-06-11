@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act requires individual health insurance plans, group and blanket health insurance plans, the state employee health plan, and state Medicaid insurance to cover medically necessary diagnostic services and treatment for menopause, perimenopause, and symptoms of menopause or perimenopause, including all of the following:\r\n1. Consultation and diagnostic testing.\r\n2. Hormonal therapies, including hormone replacement therapy and bioidentical hormone treatments, that are approved by the United States Food and Drug Administration.\r\n3. Non-hormonal treatments, including selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, neurokinin B antagonists, and other medications to manage menopause symptoms.\r\n4. All drugs, devices, and combination products approved by the United States Food and Drug Administration for the treatment of menopause and perimenopause symptoms.\r\n5. Therapy to treat menopause induced by a hysterectomy.\r\n6. Behavioral health care services.\r\n7. Pelvic floor physical therapy.\r\n8. Bone health treatments due to hormonal changes related to menopause and perimenopause, including screenings and medications.\r\n9. Preventative services for early detection and treatment of health conditions related to menopause and perimenopause, including osteoporosis and cancer.\r\n10. Counseling and education regarding menopause management.\r\n\r\nAdditionally, an insurer or carrier must provide clear and accessible information about covered menopause and perimenopause diagnostic services and treatment to each covered individual or Medicaid recipient. Menopause and perimenopause diagnostic and treatment benefits or assistance must be provided to the same extent as benefits or assistance for other medical conditions, but coverage for medically necessary hormone replacement therapy provided under this Act may not be any of the following, except as otherwise provided by federal Medicaid law:\r\n1. Denied or limited, if the use of the hormone replacement therapy is supported by national clinical guidelines, national standards of care, or peer-reviewed medical literature for the treatment of menopause, perimenopause, or menopause and perimenopause symptoms.\r\n2. Subject to prior authorization or step therapy requirements. \r\n\r\nThe Act provides a religious exemtion for group and blanket health policies. If the coverage requirement conflicts with a religious employer\u2019s bona fide religious beliefs or practices, the religious employer may request a coverage exclusion for the coverage required under Section 2 of this Act and an insurer shall grant the exclusion. A religious employer who is granted an exclusion must give its employees reasonable and timely notice of the exclusion.\r\n\r\nThis Act applies to all policies, contracts, or certificates that are issued, renewed, modified, altered, amended, or reissued after December 31, 2027."
+      "abstract": "This Act is a substitute for Senate Bill No. 319 and makes all of the following changes:\r\n1. Changes the definition of \u201chormone replacement therapy\u201d to clarify that hormone replacement therapy must be approved by the United States Food and Drug and Administration.\r\n2. Removes pellet medication from the definition of \u201chormone replacement therapy\u201d because it is not currently approved by the United States Food and Drug and Administration for treating menopause or perimenopause. \r\n3. Makes technical corrections.\t\r\n\r\nLike Senate Bill No. 319, this substitute requires individual health insurance plans, group and blanket health insurance plans, the state employee health plan, and state Medicaid insurance to cover medically necessary diagnostic services and treatment for menopause, perimenopause, and symptoms of menopause or perimenopause, including all of the following:\r\n1. Consultation and diagnostic testing.\r\n2. Hormonal therapies, including hormone replacement therapy and bioidentical hormone treatments, that are approved by the United States Food and Drug Administration.\r\n3. Non-hormonal treatments, including selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, neurokinin B antagonists, and other medications to manage menopause symptoms.\r\n4. All drugs, devices, and combination products approved by the United States Food and Drug Administration for the treatment of menopause and perimenopause symptoms.\r\n5. Therapy to treat menopause induced by a hysterectomy.\r\n6. Behavioral health care services.\r\n7. Pelvic floor physical therapy.\r\n8. Bone health treatments due to hormonal changes related to menopause and perimenopause, including screenings and medications.\r\n9. Preventative services for early detection and treatment of health conditions related to menopause and perimenopause, including osteoporosis and cancer.\r\n10. Counseling and education regarding menopause management.\r\n\r\nAdditionally, an insurer or carrier must provide clear and accessible information about covered diagnostic services and treatment for menopause, perimenopause, and menopause and perimenopause symptoms to each covered individual or Medicaid recipient. Menopause and perimenopause diagnostic and treatment benefits or assistance must be provided to the same extent as benefits or assistance for other medical conditions, but coverage for medically necessary hormone replacement therapy provided under this Act may not be any of the following, except as otherwise provided by federal Medicaid law:\r\n1. Denied or limited, if the use of the hormone replacement therapy is supported by national clinical guidelines, national standards of care, or peer-reviewed medical literature for the treatment of menopause, perimenopause, or menopause and perimenopause symptoms.\r\n2. Subject to prior authorization or step therapy requirements.\r\n\r\nThe Act provides a religious exemption for group and blanket health policies. If the coverage requirement conflicts with a religious employer\u2019s bona fide religious beliefs or practices, the religious employer may request a coverage exclusion for the coverage required under Section 2 of this Act and an insurer shall grant the exclusion. A religious employer who is granted an exclusion must give its employees reasonable and timely notice of the exclusion.\r\n\r\nThis Act applies to all policies, contracts, or certificates that are issued, renewed, modified, altered, amended, or reissued after December 31, 2027."
     }
   ],
   "other_titles": [
@@ -26,41 +26,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Health & Social Services Committee in Senate",
-      "date": "2026-05-13",
+      "description": "was introduced and adopted in lieu of SB 319",
+      "date": "2026-06-10",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Health & Social Services",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Health & Social Services) in Senate with 5 Favorable",
-      "date": "2026-05-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Health & Social Services",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-11T15:30:51Z"
       }
     }
   ],
@@ -168,11 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143298",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143518",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "SS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -180,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-11T15:30:51Z"
   }
 }

@@ -19,7 +19,11 @@
       "title": "Grants-in-Aid Subcommittee of the JFC/Create"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb190"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Administration Committee in House",
@@ -216,6 +220,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:04Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HB 190 - Introduced and Placed With Bill",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:30:51Z"
       }
     }
   ],
@@ -443,7 +459,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "amendment": "SA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -452,6 +468,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:04Z"
+    "logs_latest_update": "2026-06-11T15:30:51Z"
   }
 }

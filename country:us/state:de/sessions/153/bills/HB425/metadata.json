@@ -13,7 +13,12 @@
       "abstract": "This Act increases the salary supplement for school counselors and school nurses from 6% to 12% upon national certification. It further clarifies that salary supplements only apply if the employee is employed in the applicable profession and permits the DOE to identify additional positions subject to a salary supplement in Department regulations. \r\nThis Substitute includes school social workers in those employees eligible for a 12% salary supplement."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "School Counselors and Nurses/Salary Supplement"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb425"
@@ -37,6 +42,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 1 Favorable, 12 On Its Merits",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:30:51Z"
       }
     }
   ],
@@ -90,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-11T15:30:51Z"
   }
 }

@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act permits the value of items stolen at separate times to be grouped and prosecuted as one charge, if the thefts were part of a pattern. It also allows the occurrence of an act in one jurisdiction to be used as evidence of a pattern being charged in another jurisdiction.\r\nThis Act also makes technical corrections to existing law to conform to the standards of the Delaware Legislative Drafting Manual."
+      "abstract": "This House Substitute for House Bill No. 276 permits the value of items stolen at separate times to be grouped and prosecuted as one charge, if the thefts were part of a course of conduct. \r\n\r\nThis House Substitute differs from the original in that it defines \u201ccourse of conduct\u201d and restructures the statute to place the additional language regarding a course of conduct in the operative language regarding what must be shown in order to elevate the penalty for higher dollar value thefts. This means that the course of conduct is an element of the offense that must be proven beyond a reasonable doubt. The theft statute otherwise remains the same. Like the original bill, this substitute makes technical corrections to conform with the Delaware Legislative Drafting Manual."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "Stolen Items/Grouping/One Charge"
+      "title": "Group Stolen Items/One Charge"
     }
   ],
   "other_identifiers": [
@@ -26,62 +26,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in House",
-      "date": "2026-01-21",
+      "description": "was introduced and adopted in lieu of HB 276",
+      "date": "2026-06-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-01-22T12:25:11Z"
-      }
-    },
-    {
-      "description": "Not Worked in Committee",
-      "date": "2026-04-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Judiciary) in House with 8 On Its Merits",
-      "date": "2026-05-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Amendment HA 1 to HB 276 - Introduced and Placed With Bill",
-      "date": "2026-06-09",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-11T15:30:51Z"
       }
     }
   ],
@@ -109,54 +62,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
       "organization_id": null
-    },
-    {
-      "name": "Richard G. Collins",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Richard G. Collins\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Edward S. Osienski",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melanie Ross Levin",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lyndon D. Yearick",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bryant L. Richardson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ray Seigfried",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -165,12 +70,12 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142792",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143495",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "substitute": "HS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -179,6 +84,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-11T15:30:51Z"
   }
 }
