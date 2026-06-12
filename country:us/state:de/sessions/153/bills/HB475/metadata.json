@@ -61,6 +61,37 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Passed By House. Votes: 38 YES 1 NO 2 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }

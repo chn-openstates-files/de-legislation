@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Tabled in House by Vote: 25 YES 14 NO 1 NOT VOTING 1 ABSENT. Reason Taken: Motion to Table HB 403",
+    "date": "2026-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 403"
+}

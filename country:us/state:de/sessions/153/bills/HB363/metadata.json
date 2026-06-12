@@ -93,6 +93,49 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HB 363 - Passed In House by Voice Vote",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 2 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,7 +157,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HB 363",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143310&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143310&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -133,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment SA 1 to HB 327 - Passed By Senate. Votes: 18 YES 3 ABSENT",
+    "date": "2026-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 327"
+}

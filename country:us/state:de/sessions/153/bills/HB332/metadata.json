@@ -10,15 +10,10 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act requires that a person that prepares, distributes, sells, or advertises for sale a food that is represented to be a kratom product to disclose the factual basis on which the representation is made.  It establishes prohibitions related to the preparation, distribution, sale, and advertisement of kratom products, including prohibiting the distribution or sale to individuals under the age of 21.  It imposes civil violations on those who violate the prohibitions. It requires the Division of Alcohol and Tobacco Enforcement of the Department of Safety and Homeland Security, in collaboration with the Delaware Healthcare Association, to report to the General Assembly, on or before December 31, 2026, on the number of adverse health events observed in individuals after the use of opioid\u2013like substances, including kratom; and generally relating to kratom."
+      "abstract": "House Substitute No. 1 for House Bill No. 332 prohibits the selling, providing, or marketing of kratom or a kratom product to an individual under the age of 21.  A person who violates the prohibition is guilty of a class B misdemeanor.\r\nIt also requires The Division of Alcohol & Tobacco Enforcement and the Department of Health and Social Services to provide a report on kratom testing capabilities and potential licensing requirements for retailers selling kratom products to the Governor and General Assembly by January 1, 2027. \r\nThis Act requires a greater than majority vote for passage because \u00a7 28 of Article IV of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to give jurisdiction to inferior courts or justices of the peace of \u201csuch \u2026 misdemeanors as the General Assembly may from time to time \u2026 prescribe.\u201d"
     }
   ],
-  "other_titles": [
-    {
-      "note": "short title",
-      "title": "Kratom/Disclosure/Factual Basis/Representation"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb332"
@@ -26,40 +21,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Health & Human Development Committee in House",
-      "date": "2026-03-26",
+      "description": "was introduced and adopted in lieu of HB 332",
+      "date": "2026-06-11",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Health & Human Development",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-27T12:37:34Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Health & Human Development) in House with 9 On Its Merits",
-      "date": "2026-04-15",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Health & Human Development",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-12T14:30:11Z"
       }
     }
   ],
@@ -71,14 +41,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
       "organization_id": null
-    },
-    {
-      "name": "Marie Pinkney",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -87,11 +49,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143020",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143524",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -99,6 +63,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }

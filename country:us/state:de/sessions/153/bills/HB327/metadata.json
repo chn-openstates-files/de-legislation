@@ -123,6 +123,30 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to HB 327 - Passed By Senate. Votes: 18 YES 3 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,7 +288,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "SA 1 to HB 327",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143352&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143352&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -283,6 +323,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }

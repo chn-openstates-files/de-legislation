@@ -10,10 +10,15 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act's purpose is to create checks and balances between the Executive and legislative Branches of State government relating to Emergency Orders.\r\nThis Act recognizes the authority of the Governor to act in the event of an emergency by allowing the Governor to declare an emergency for 120 days and to renew that order for up to 60 more days, for a total of 180 days.\r\nThereafter, to extend or renew the emergency order beyond the 180 days, such order will require the approval of the General Assembly.\r\nThe Governor may terminate any emergency order or renewal order at any time."
+      "abstract": "This Act's purpose is to create checks and balances between the Executive and Legislative Branches of State government relating to Emergency Orders. This Act recognizes the authority of the Governor to act in the event of an emergency by allowing the Governor to declare an emergency for 120 days and to renew that order for up to 60 more days, for a total of 180 days. Thereafter, to extend or renew the emergency order beyond the 180 days, such order will be subject to actions taken by the General Assembly.\r\nThe Governor may terminate any emergency order or renewal order at any time.\r\nThis substitute bill clarifies that after an Emergency Order has been in effect for 180 days, the General Assembly may act to terminate or amend the Order, but the Order could continue to be renewed until the Governor or the General Assembly act to the contrary.\r\nAlso, the substitute requires a report to the General Assembly every 30 days during the continuation of a State of Emergency."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Emergency Orders/Legislative Oversight"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb329"
@@ -21,22 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Administration Committee in House",
-      "date": "2026-03-25",
+      "description": "was introduced and adopted in lieu of HB 329",
+      "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Administration",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-26T12:46:52Z"
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
       }
     }
   ],
@@ -74,6 +84,14 @@
       "organization_id": null
     },
     {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
       "name": "David L. Wilson",
       "classification": "primary",
       "entity_type": "person",
@@ -90,6 +108,14 @@
       "organization_id": null
     },
     {
+      "name": "Bryan W. Shupe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bryan W. Shupe\"}",
+      "organization_id": null
+    },
+    {
       "name": "Michael F. Smith",
       "classification": "primary",
       "entity_type": "person",
@@ -98,11 +124,27 @@
       "organization_id": null
     },
     {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jesse R. Vanderwende",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jesse R. Vanderwende\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
       "organization_id": null
     },
     {
@@ -120,6 +162,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
       "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -128,11 +178,14 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143005",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143321",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1",
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -140,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T12:46:52Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }

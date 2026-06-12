@@ -43,6 +43,55 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 7 On Its Merits",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:30:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-12T14:30:11Z"
   }
 }
