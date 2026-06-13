@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act requires the Department of Elections, in coordination with the Division of Motor Vehicles and any other state agency  that administers automatic voter registration, to conduct a comprehensive audit of all voter registrations created through Delaware's automatic voter registration system since 2021 to ensure that individuals meet eligibility requirements including citizenship, residency, and age. The Act also requires mandatory eligibility verification for all future automatic voter registrations on an ongoing basis and establishes reporting requirements to ensure transparency and accountability."
+      "abstract": "This Substitute Bill requires the Division of Motor Vehicles, which is the only state agency that administers automatic voter registration, to conduct an audit of certain voter registrations that: (1) have a non-federally compliant driver's license or identification, (2) their documents predate the implementation of REAL ID, and (3) obtained a driver's license or identification card after Automatic Voter Registration took effect June 21, 2023.\r\nThe Department of Elections, in coordination with the Division of Motor Vehicles, is to report the audit's findings within 1 year of completing the audit."
     }
   ],
   "other_titles": [],
@@ -21,8 +21,8 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Elections & Government Affairs Committee in House",
-      "date": "2026-03-17",
+      "description": "Adopted in lieu of the original bill HB 317, and Assigned to Appropriations Committee in House",
+      "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -30,13 +30,23 @@
       ],
       "related_entities": [
         {
-          "name": "Elections & Government Affairs",
+          "name": "Appropriations",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-03-18T12:42:37Z"
+        "log_file_created": "2026-06-13T13:21:23Z"
+      }
+    },
+    {
+      "description": "Substituted in House by HS 2 for HB 317",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:21:23Z"
       }
     }
   ],
@@ -96,11 +106,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142943",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143325",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -108,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-18T12:42:37Z"
+    "logs_latest_update": "2026-06-13T13:21:23Z"
   }
 }

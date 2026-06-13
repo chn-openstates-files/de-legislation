@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted in House by HS 2 for HB 317",
+    "date": "2026-06-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 317"
+}
