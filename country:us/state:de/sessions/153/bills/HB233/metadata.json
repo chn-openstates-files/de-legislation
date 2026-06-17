@@ -36,6 +36,141 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HA 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HA 1 - Passed In House by Voice Vote",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Roll Call on Motion to Table HS 1 for HB 233 - Defeated by House Vote: 16 YES 20 NO 5 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed By House. Votes: 26 YES 3 NO 9 NOT VOTING 3 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HS 1 - Stricken in House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 3 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 3 to HS 1 - Passed By House. Votes: 33 YES 2 NO 2 NOT VOTING 4 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 25 YES 9 NO 2 NOT VOTING 5 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,7 +248,53 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 233",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143561&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143561&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 1 to HA 1 to HS 1 for HB 233",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143574&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143574&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 3 to HS 1 for HB 233",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143579&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143579&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -123,7 +304,8 @@
     }
   ],
   "extras": {
-    "substitute": "HS 1"
+    "substitute": "HS 1",
+    "amendment": "HA 1, HA 1 to HA 1, HA 3"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -132,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-17T14:47:36Z"
   }
 }

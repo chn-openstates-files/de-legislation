@@ -36,6 +36,42 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Defeated By House. Votes: 26 YES 14 NO 1 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,7 +101,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 88",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143546&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143546&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -75,7 +127,8 @@
     }
   ],
   "extras": {
-    "substitute": "HS 1"
+    "substitute": "HS 1",
+    "amendment": "HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -84,6 +137,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-17T14:47:36Z"
   }
 }

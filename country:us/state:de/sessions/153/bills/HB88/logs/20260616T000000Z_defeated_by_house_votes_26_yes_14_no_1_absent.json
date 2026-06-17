@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Defeated By House. Votes: 26 YES 14 NO 1 ABSENT",
+    "date": "2026-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 88"
+}

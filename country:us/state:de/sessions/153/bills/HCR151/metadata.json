@@ -74,6 +74,28 @@
       "_processing": {
         "log_file_created": "2026-06-13T13:21:23Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HCR 151 - Passed In House by Voice Vote",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Passed In House by Voice Vote",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -199,7 +221,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HCR 151",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143539&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143539&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -218,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-13T13:21:23Z"
+    "logs_latest_update": "2026-06-17T14:47:36Z"
   }
 }

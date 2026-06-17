@@ -62,6 +62,37 @@
       "_processing": {
         "log_file_created": "2026-06-11T15:30:51Z"
       }
+    },
+    {
+      "description": "Passed By House. Votes: 27 YES 11 NO 3 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Assigned to Education Committee in Senate",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:47:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:30:51Z"
+    "logs_latest_update": "2026-06-17T14:47:36Z"
   }
 }

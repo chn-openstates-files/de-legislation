@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "The Truth in E-Bike Marketing Act protects Delaware consumers from purchasing an electric moped or electric motorcycle with the belief that the device may be used in the same way as an electric bicycle, addressing a growing area of market confusion. It prohibits dealers from advertising high-powered motor vehicles using terms like \"electric bicycle\" or \u201ce-bike\u201d and also requires that sellers provide clear, written disclosures regarding the vehicle's legal classification, maximum power, and the necessity for registration, licensing, and insurance. The bill classifies failure to provide these disclosures as an unlawful business practice. Finally, the bill clarifies that mopeds may not be operated on public pathways, bike lanes, or sidewalks and that crashes involving electric bicycles or mopeds must be identified on the state\u2019s crash reporting website."
+      "abstract": "The Truth in E-Bike Marketing Act protects Delaware consumers from purchasing an electric moped or electric motorcycle with the belief that the device may be used in the same way as an electric bicycle, addressing a growing area of market confusion. It prohibits dealers from advertising high-powered motor vehicles using terms like \"electric bicycle\" or \u201ce-bike\u201d and also requires that sellers provide clear, written disclosures regarding the vehicle's legal classification, maximum power, and the necessity for registration, licensing, and insurance. The bill classifies failure to provide these disclosures as an unlawful business practice. Finally, the bill clarifies that mopeds may not be operated on public pathways, bike lanes, or sidewalks and that crashes involving electric bicycles or mopeds must be identified on the state\u2019s crash reporting website.\r\nHouse Substitute 1 to HB 439 makes the following changes: \r\n1. Changes the term \u201cdealer\u201d to \u201ccommercial seller\u201d. \r\n2. Clarifies that this Act applies to electric mopeds and electric motorcycles.\r\n3. Removes the provision requiring the DMV to approve the disclosure statement that must be provided to buyers. \r\n4. Removes the provision requiring a copy of the signed disclosure statement be provided to the DMV.  \r\n5. Places the new section of Delaware Code created in Section 3 of this Act into its own chapter."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "Truth in E-Bike Marketing Act"
+      "title": "Truth in E-Boke Marketing Act"
     }
   ],
   "other_identifiers": [
@@ -26,40 +26,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Public Safety & Homeland Security Committee in House",
-      "date": "2026-05-21",
+      "description": "was introduced and adopted in lieu of HB 439",
+      "date": "2026-06-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Public Safety & Homeland Security",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Public Safety & Homeland Security) in House with 6 On Its Merits",
-      "date": "2026-06-09",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Public Safety & Homeland Security",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-17T14:47:36Z"
       }
     }
   ],
@@ -71,86 +46,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kamela T Smith\"}",
       "organization_id": null
-    },
-    {
-      "name": "Nicole Poore",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kerri Evelyn Harris",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Russell Huxtable",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Laura V. Sturgeon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Edward S. Osienski",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cyndie Romer",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Claire Snyder-Hall",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Josue O Ortega",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David P. Sokola",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David L. Wilson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -159,11 +54,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143377",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143560",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -171,6 +68,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-17T14:47:36Z"
   }
 }
