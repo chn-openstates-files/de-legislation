@@ -74,6 +74,18 @@
       "_processing": {
         "log_file_created": "2026-06-12T14:30:11Z"
       }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:41:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-12T14:30:11Z"
+    "logs_latest_update": "2026-06-18T14:41:57Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act amends section 137 of Title 17 of the Delaware Code to increase the requirement for a qualified independent appraisal from $10,000.00 to $25,000.00, to align with the current maximum threshold permitted by the Federal Highway Administration. This will allow DELDOT to more quickly complete smaller acquisitions as property values continue to increase."
+      "abstract": "This Act amends section 137 of Title 17 of the Delaware Code to increase the requirement for a qualified independent appraisal from $10,000.00 to $25,000.00, to align with the current maximum threshold permitted by the Federal Highway Administration. This will allow DELDOT to more quickly complete smaller dispositions as property values continue to increase.\r\nThis House Substitute corrects an error in the synopsis of the original bill."
     }
   ],
   "other_titles": [],
@@ -21,8 +21,8 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Transportation Committee in House",
-      "date": "2026-06-04",
+      "description": "Adopted in lieu of the original bill HB 457, and Assigned to Transportation Committee in House",
+      "date": "2026-06-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -36,7 +36,25 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-18T14:41:57Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Transportation) in House with 6 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:41:57Z"
       }
     }
   ],
@@ -96,11 +114,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143423",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143549",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -108,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-18T14:41:57Z"
   }
 }

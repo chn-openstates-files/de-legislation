@@ -91,6 +91,25 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:40:13Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:41:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -228,6 +247,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:40:13Z"
+    "logs_latest_update": "2026-06-18T14:41:57Z"
   }
 }

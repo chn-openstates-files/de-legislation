@@ -93,6 +93,25 @@
       "_processing": {
         "log_file_created": "2026-06-12T14:30:11Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Agriculture) in House with 1 Favorable, 8 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:41:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-12T14:30:11Z"
+    "logs_latest_update": "2026-06-18T14:41:57Z"
   }
 }

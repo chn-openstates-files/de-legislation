@@ -13,7 +13,12 @@
       "abstract": "This Act adds the definition of child-serving entity for the purpose of requiring a service letter verification from any child-serving entity where an employee may have worked. \u201cChild-serving entity\u201d is already defined in \u00a7 309 of Title 31 and includes DSCYF, residential child-care facilities, public and private schools, youth camps, summer schools, and other entities.  If a previous employer fails to respond to a service letter, this Act also requires that the prospective employee report the failure to respond to the DOL."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Service Letter Verification/Child-Serving Entity"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb438"
@@ -56,6 +61,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-06-12T14:30:11Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:41:57Z"
       }
     }
   ],
@@ -111,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-12T14:30:11Z"
+    "logs_latest_update": "2026-06-18T14:41:57Z"
   }
 }
