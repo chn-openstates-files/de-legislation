@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act clarifies that the agencies may, in their discretion, determine the methodology to be used for bid submission, including limiting bidding to solely electronic submissions.  This Act allows for electronic bidding to be conducted through a platform of the agency\u2019s choice.  Where electronic bidding is identified as the sole manner of bidding, the agency is not required to provide an anchor location for public attendance at the bid opening. The agency is then required to provide the results of the bidding in real time via an electronic remote hosting platform of the agency\u2019s choosing.  The agency must post the results of the solicitation to their website within two (2) business days.  Additionally, this Act clarifies that a newspaper advertisement is not required if advertisement is submitted to the electronic procurement advertising system defined in \u00a7 6902(12) of this title. Finally, this Act clarifies that the agency and awarded bidder may mutually consent to extend the time limit for contract award."
+      "abstract": "This House Substitute for House Bill No. 390 clarifies that the agencies may, in their discretion, determine the methodology to be used for bid submission, including limiting bidding to solely electronic submissions.  This Act allows for electronic bidding to be conducted through a platform of the agency\u2019s choice.  Where electronic bidding is identified as the sole manner of bidding, the agency is not required to provide an anchor location for public attendance at the bid opening. The agency is then required to provide the results of the bidding in real time via an electronic remote hosting platform of the agency\u2019s choosing.  The agency must post the results of the solicitation to their website within 2 business days.  Additionally, this Act clarifies that a newspaper advertisement is not required if advertisement is submitted to the electronic procurement advertising system defined in \u00a7 6902(12) of this title. Finally, this Act clarifies that the agency and awarded bidder may mutually consent to extend the time limit for a contract award.\r\nThis House Substitute differs from the original bill by adding that the agency must accept paper submissions when the solicitation or request for proposal is under $500,000 but more than the amount specified by the Office of Management and Budget in their annual guidance. It includes that the centralized computer system administered by the Section of Government Support Services will serve as the State's system of record. This substitute also makes technical corrections to conform with the Delaware Legislative Drafting Manual."
     }
   ],
   "other_titles": [
@@ -26,40 +26,52 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Administration Committee in House",
-      "date": "2026-04-30",
+      "description": "Passed By House. Votes: 37 YES 1 NO 3 ABSENT",
+      "date": "2026-06-16",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:39:02Z"
+      }
+    },
+    {
+      "description": "Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
       "related_entities": [
         {
-          "name": "Administration",
+          "name": "Elections & Government Affairs",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-19T14:39:02Z"
       }
     },
     {
-      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
-      "date": "2026-05-13",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 4 On Its Merits",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage"
       ],
       "related_entities": [
         {
-          "name": "Administration",
+          "name": "Elections & Government Affairs",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
+        "log_file_created": "2026-06-19T14:39:02Z"
       }
     }
   ],
@@ -71,14 +83,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
       "organization_id": null
-    },
-    {
-      "name": "Melanie Ross Levin",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -87,11 +91,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143200",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143538",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -99,6 +105,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-06-19T14:39:02Z"
   }
 }

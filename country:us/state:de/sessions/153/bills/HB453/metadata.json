@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act prohibits surveillance-based price discrimination by forbidding the use of automated decision systems to set individualized consumer prices based on personal data, metadata, or proxy data, such as device identifiers and digital behavioral patterns, used to infer a consumer's socioeconomic status or urgency of purchase. While the Act establishes safe harbors for discounts based on lawful, objective criteria (e.g., military, student, or senior status), it ensures that rewards and loyalty programs are not used to circumvent these protections by requiring that such discounts remain uniform across membership and are not individualized through algorithmic profiling.\r\nThis Act may be enforced by the Department of Justice, as an unlawful practice under \u00a7 2513 of Title 6. The Act also provides consumers with a private right of action to recover actual damages or $3,000 per violation, whichever is greater, alongside potential treble damages for willful intent."
+      "abstract": "This House Substitute for House Bill No. 453 prohibits surveillance-based price discrimination by forbidding the use of automated decision systems to set individualized consumer prices based on personal data, metadata, or proxy data, such as device identifiers and digital behavioral patterns, used to infer a consumer's socioeconomic status or urgency of purchase. While the Act establishes safe harbors for discounts based on lawful, objective criteria (e.g., military, student, or senior status), it ensures that rewards and loyalty programs are not used to circumvent these protections by requiring that such discounts remain uniform across membership and are not individualized through algorithmic profiling. \r\nThis Substitute differs from the original bill by adding a definition of electronic shelving labels and provides language that protects loyalty programs. It also carves out financial services and credit to align with federal regulations, changes the language used for location-based data, discounts for service interruptions, removes the term \u201crisk-relevant data\u201d, and provides a safe harbor provision with an opportunity to cure and a sunset date. Finally, this Substitute also includes a severability clause and an effective date of January 1, 2027."
     }
   ],
   "other_titles": [
     {
       "note": "short title",
-      "title": "Surveillance-Based Pricing/Consumer Protections"
+      "title": "Surveillance-Based Price Discrimination/Forbid"
     }
   ],
   "other_identifiers": [
@@ -26,41 +26,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
-      "date": "2026-06-04",
+      "description": "was introduced and adopted in lieu of HB 453",
+      "date": "2026-06-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Economic Development/Banking/Insurance & Commerce",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 4 Favorable, 4 On Its Merits",
-      "date": "2026-06-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Economic Development/Banking/Insurance & Commerce",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-11T15:30:51Z"
+        "log_file_created": "2026-06-19T14:39:02Z"
       }
     }
   ],
@@ -72,78 +46,6 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nnamdi O. Chukwuocha\"}",
       "organization_id": null
-    },
-    {
-      "name": "Spiros Mantzavinos",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Edward S. Osienski",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ray Seigfried",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cyndie Romer",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Eric Morrison",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kerri Evelyn Harris",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Josue O Ortega",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Marie Pinkney",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dave G. Lawson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -152,11 +54,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143421",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143615",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -164,6 +68,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:30:51Z"
+    "logs_latest_update": "2026-06-19T14:39:02Z"
   }
 }

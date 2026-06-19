@@ -63,6 +63,18 @@
       "_processing": {
         "log_file_created": "2026-06-11T15:30:51Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HB 427 - Introduced and Placed With Bill",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,7 +169,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -165,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:30:51Z"
+    "logs_latest_update": "2026-06-19T14:39:02Z"
   }
 }

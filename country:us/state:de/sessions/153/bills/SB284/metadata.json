@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act makes it a crime for any person to either cross a marked barrier established by a first responder, or, after receiving a warning not to approach from a first responder who is engaged in the lawful performance of a legal duty, to violate the warning and approach or remain within 25 feet of the first responder, with the intent to do any of the following: \r\n(1) Impede or interfere with the first responder\u2019s ability to perform the first responder\u2019s legal duty.\r\n(2) Threaten the first responder with physical injury, serious physical injury, or death.\r\n(3) Harass the first responder.\r\n\r\nFor purposes of this Act, a first responder means a law-enforcement officer, volunteer or paid firefighter, emergency medical technician, paramedic, or fire police officer."
+      "abstract": "This Act makes it a crime for any person to either cross a marked barrier established by a first responder, or, after receiving a warning not to approach from a first responder who is engaged in the lawful performance of a legal duty, to violate the warning and approach or remain within 25 feet of the first responder, with the intent to do any of the following:\r\n(1) Impede or interfere with the first responder\u2019s ability to perform the first responder\u2019s legal duty.\r\n(2) Threaten the first responder with physical injury, serious physical injury, or death.\r\n\r\nFor purposes of this Act, a first responder means a law-enforcement officer, volunteer or paid firefighter, emergency medical technician, paramedic, or fire police officer."
     }
   ],
   "other_titles": [
@@ -26,40 +26,46 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Judiciary Committee in Senate",
-      "date": "2026-04-21",
+      "description": "was introduced and adopted in lieu of SB 284",
+      "date": "2026-06-18",
       "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:39:02Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:39:02Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
       "related_entities": [
         {
-          "name": "Judiciary",
+          "name": "Administration",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Judiciary) in Senate with 4 On Its Merits",
-      "date": "2026-06-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Judiciary",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-18T14:41:57Z"
+        "log_file_created": "2026-06-19T14:39:02Z"
       }
     }
   ],
@@ -94,6 +100,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
       "organization_id": null
     },
     {
@@ -159,11 +173,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143123",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143625",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "SS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -171,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-18T14:41:57Z"
+    "logs_latest_update": "2026-06-19T14:39:02Z"
   }
 }
