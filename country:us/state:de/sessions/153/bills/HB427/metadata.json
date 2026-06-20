@@ -10,15 +10,10 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "Hunting and those permitted to hunt in Delaware are strictly regulated by the Delaware Department of Natural Resources and Environmental Control (the \"Department\"). Federal and Delaware law and Department regulations specifically regulate and strictly limit the dates, times, locations, methods, and types of firearms or projectile weapons permitted to be used to hunt in Delaware.  Every individual age 16 to 17 is required to take a Delaware approved Basic Hunter Education Course administered by the Department prior to the issuance of a Delaware Hunting License.  A Delaware approved Basic Hunter Education Course teaches young hunters safety, ethics, firearm types, safe gun handling, marksmanship techniques, specialty hunting techniques, wildlife management, wildlife identification, survival, and compliance with hunting laws and regulation.\r\nThis bill establishes that individuals aged 16 to 17 may possess a firearm while hunting without the direct supervision of a person 21 years or older, provided they have completed a Delaware approved Basic Hunter Education Course and have been issued and are digitally or physically in possession of a valid Delaware Adult Hunting License issued by the Department."
+      "abstract": "This substitute bill allows target practicing with a BB gun, projectile weapon, or firearm by a 16 or 17 year old without direct supervision of a person age 21 or above provided the 16 or 17 year old has permission of a parent or guardian and the 16 or 17 year old has completed a hunter education course.\r\nAdditionally, a 16 or 17 year old is allowed to hunt without direct supervision if they are in possession of a valid Delaware hunting license."
     }
   ],
-  "other_titles": [
-    {
-      "note": "short title",
-      "title": "Hunters/Aged 16 to 17/Updates"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb427"
@@ -26,54 +21,15 @@
   ],
   "actions": [
     {
-      "description": "Introduced and Assigned to Natural Resources & Energy Committee in House",
-      "date": "2026-05-19",
+      "description": "was introduced and adopted in lieu of HB 427",
+      "date": "2026-06-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Natural Resources & Energy",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-10T14:48:59Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 2 Favorable, 5 On Its Merits, 1 Unfavorable",
-      "date": "2026-06-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage",
-        "committee-passage-favorable",
-        "committee-passage-unfavorable"
-      ],
-      "related_entities": [
-        {
-          "name": "Natural Resources & Energy",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-06-11T15:30:51Z"
-      }
-    },
-    {
-      "description": "Amendment HA 1 to HB 427 - Introduced and Placed With Bill",
-      "date": "2026-06-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-19T14:39:02Z"
+        "log_file_created": "2026-06-20T13:23:46Z"
       }
     }
   ],
@@ -165,12 +121,12 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143339",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143628",
       "note": "text/html"
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "substitute": "HS 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -179,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-20T13:23:46Z"
   }
 }
