@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This Act is a substitute for and differs from Senate Bill No. 342 by making the following changes:\r\n\r\n1. Places the Commission back under the authority of the Division of Small Business and removes references throughout the original bill to the Delaware Tourism Office. \r\n2. Adds authority for the Commission to make recommendations for model permitting language and processes. \r\n3. Allows the Commission to develop a film-ready database of shooting locations, provide assistance in hiring local crews, vendors, and production support, and expand the Commission\u2019s scope to include new media and the digital media landscape.\r\n4. Provides more clarity for what constitutes a conflict of interest by replacing \u201cfamily\u201d with \u201cclose relative\u201d and defining the term. \r\n\r\nThis Act reorganizes the Delaware Motion Picture and Television Development Commission by increasing its membership from 9 to 11 members and modernizing the composition of the Commission to include specific industry and labor representatives. The Act directs the Governor to ensure that the Commission's membership reflects the racial, gender, and geographic diversity of the State. Additionally, this Act establishes governance procedures for the Commission, including the selection of a chair, the establishment of staggered terms for appointed members, and the implementation of a conflict-of-interest restriction for Commission members. The Act also expands the Commission's powers by authorizing it to assist productions in navigating the permitting process, which includes developing a standardized statewide permit application and advocating before relevant permitting authorities. Furthermore, the Act explicitly tasks the Commission with coordinating business attraction functions alongside the Delaware Prosperity Partnership. Finally, the Act requires the Commission to submit an annual report to the Governor and the General Assembly containing specific minimum performance and demographic data."
+      "abstract": "This Act is a substitute for and differs from Senate Bill No. 342 by making the following changes:\n\n1. Places the Commission back under the authority of the Division of Small Business and removes references throughout the original bill to the Delaware Tourism Office. \n2. Adds authority for the Commission to make recommendations for model permitting language and processes. \n3. Allows the Commission to develop a film-ready database of shooting locations, provide assistance in hiring local crews, vendors, and production support, and expand the Commission\u2019s scope to include new media and the digital media landscape.\n4. Provides more clarity for what constitutes a conflict of interest by replacing \u201cfamily\u201d with \u201cclose relative\u201d and defining the term. \n\nThis Act reorganizes the Delaware Motion Picture and Television Development Commission by increasing its membership from 9 to 11 members and modernizing the composition of the Commission to include specific industry and labor representatives. The Act directs the Governor to ensure that the Commission's membership reflects the racial, gender, and geographic diversity of the State. Additionally, this Act establishes governance procedures for the Commission, including the selection of a chair, the establishment of staggered terms for appointed members, and the implementation of a conflict-of-interest restriction for Commission members. The Act also expands the Commission's powers by authorizing it to assist productions in navigating the permitting process, which includes developing a standardized statewide permit application and advocating before relevant permitting authorities. Furthermore, the Act explicitly tasks the Commission with coordinating business attraction functions alongside the Delaware Prosperity Partnership. Finally, the Act requires the Commission to submit an annual report to the Governor and the General Assembly containing specific minimum performance and demographic data."
     }
   ],
   "other_titles": [
@@ -92,6 +92,24 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:39:02Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

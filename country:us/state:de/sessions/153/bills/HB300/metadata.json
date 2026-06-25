@@ -210,6 +210,42 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:39:02Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to HB 300 - Introduced and Placed With Bill",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HB 300 - Defeated By Senate. Votes: 6 YES 14 NO 1 ABSENT",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -362,6 +398,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

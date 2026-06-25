@@ -171,6 +171,18 @@
       "_processing": {
         "log_file_created": "2026-06-17T14:47:36Z"
       }
+    },
+    {
+      "description": "Amendment SA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -305,7 +317,7 @@
   ],
   "extras": {
     "substitute": "HS 1",
-    "amendment": "HA 1, HA 1 to HA 1, HA 3"
+    "amendment": "HA 1, HA 1 to HA 1, HA 3 -SA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -314,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-17T14:47:36Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

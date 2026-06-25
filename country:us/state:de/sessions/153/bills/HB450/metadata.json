@@ -104,6 +104,44 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:39:02Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 1 Favorable, 5 On Its Merits",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

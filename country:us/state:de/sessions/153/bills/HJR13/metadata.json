@@ -10,10 +10,15 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This resolution directs the Department of Labor, in collaboration with the Department of Education and the Department of Health and Social Services, to study the creation of a Delaware Healthcare Apprenticeship Degree Program that would place aspiring healthcare professionals in paid clinical positions in healthcare facilities while they complete the training and schooling necessary to become credentialed healthcare professionals.\r\nThe resolution requires that the study consider how any recommended program may be funded through Delaware\u2019s federal Rural Health Transformation Program award and implemented through or in coordination with the competitive awards made by the Department of Health and Social Services under that program, so that the program complements, rather than duplicates, the State\u2019s ongoing healthcare workforce initiatives.\r\nThis resolution also directs the Department of Labor to consult with stakeholders to make recommendations for degreed apprenticeship programs beyond healthcare and requires the Department to submit a report of its findings to the Governor, the General Assembly, and the Division of Legislative Services by May 1, 2027."
+      "abstract": "This resolution directs the Department of Labor, in collaboration with the Department of Education and the Department of Health and Social Services, to study the creation of a Delaware Healthcare Apprenticeship Degree Program that would place aspiring healthcare professionals in paid clinical positions in healthcare facilities while they complete the training and schooling necessary to become credentialed healthcare professionals.\nThe resolution requires that the study consider how any recommended program may be funded through Delaware\u2019s federal Rural Health Transformation Program award and implemented through or in coordination with the competitive awards made by the Department of Health and Social Services under that program, so that the program complements, rather than duplicates, the State\u2019s ongoing healthcare workforce initiatives.\nThis resolution also directs the Department of Labor to consult with stakeholders to make recommendations for degreed apprenticeship programs beyond healthcare and requires the Department to submit a report of its findings to the Governor, the General Assembly, and the Division of Legislative Services by May 1, 2027."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DE Healthcare Apprenticeship Degree Program"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hjr13"
@@ -37,6 +42,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-06-17T14:47:36Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
       }
     }
   ],
@@ -76,6 +99,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-17T14:47:36Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

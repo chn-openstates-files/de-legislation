@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "Like the original bill, Senate Substitute 1 for Senate Bill 314 modernizes the Rape Shield provisions in Title 11 of the Delaware Code, \u00a7\u00a7 3508 and 3509 and provides that in any prosecution for any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, any evidence that the complaining witness made a false accusation of unlawful sexual conduct against any person on another occasion is inadmissible unless it complies with the procedure set forth in \u00a7 3508 of Title 11, is relevant and is material to a fact in issue in the case, and the inflammatory or prejudicial nature of the evidence does not outweigh the probative value of the evidence.\r\n\r\nThis Senate Substitute differs from the original in that it establishes a separate procedure under \u00a7 3508(b) of Title 11 to address prior false accusations of unlawful sexual conduct by the complaining witness, providing a distinct set of standards for handling the unique issues surrounding this type of evidence."
+      "abstract": "Like the original bill, Senate Substitute 1 for Senate Bill 314 modernizes the Rape Shield provisions in Title 11 of the Delaware Code, \u00a7\u00a7 3508 and 3509 and provides that in any prosecution for any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, any evidence that the complaining witness made a false accusation of unlawful sexual conduct against any person on another occasion is inadmissible unless it complies with the procedure set forth in \u00a7 3508 of Title 11, is relevant and is material to a fact in issue in the case, and the inflammatory or prejudicial nature of the evidence does not outweigh the probative value of the evidence.\n\nThis Senate Substitute differs from the original in that it establishes a separate procedure under \u00a7 3508(b) of Title 11 to address prior false accusations of unlawful sexual conduct by the complaining witness, providing a distinct set of standards for handling the unique issues surrounding this type of evidence."
     }
   ],
   "other_titles": [
@@ -60,6 +60,37 @@
       ],
       "_processing": {
         "log_file_created": "2026-06-18T14:41:57Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
       }
     }
   ],
@@ -141,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-18T14:41:57Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

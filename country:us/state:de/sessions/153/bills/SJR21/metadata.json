@@ -13,7 +13,12 @@
       "abstract": "This Senate Joint Resolution directs the Department of Safety and Homeland Security to study the feasibility of the automatic storage of biological evidence."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DSHS/Bio Evidence/Storage/Study"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-sjr21"
@@ -88,6 +93,24 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:39:02Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,6 +149,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

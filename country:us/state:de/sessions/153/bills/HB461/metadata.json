@@ -93,6 +93,25 @@
       "_processing": {
         "log_file_created": "2026-06-17T14:47:36Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in Senate with 4 On Its Merits, 1 Unfavorable",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -211,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-17T14:47:36Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

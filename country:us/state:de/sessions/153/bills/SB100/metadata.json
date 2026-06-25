@@ -19,7 +19,11 @@
       "title": "Const. Amend/1st leg/Right to Marry"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb100"
+    }
+  ],
   "actions": [
     {
       "description": "was introduced and adopted in lieu of SB 100",
@@ -80,6 +84,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-12T12:32:53Z"
+      }
+    },
+    {
+      "description": "Defeated By House. Votes: 24 YES 3 NO 14 NOT VOTING",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
       }
     }
   ],
@@ -273,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:32:53Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

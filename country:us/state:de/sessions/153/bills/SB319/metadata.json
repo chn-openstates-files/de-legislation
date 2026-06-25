@@ -67,6 +67,24 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:39:02Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 8 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -187,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:39:02Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }

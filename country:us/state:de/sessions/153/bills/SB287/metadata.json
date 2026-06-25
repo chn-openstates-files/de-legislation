@@ -13,7 +13,12 @@
       "abstract": "This Act adds requirements for persons who collect single-stream recycling from single and multi-family residential or source-separated customers and requires commercial businesses to assess all wastes and evaluate costs associated with disposal of recyclable materials. The Act also removes responsibilities associated with recycling grants and low interest loans, which are no longer available. The Act adds a new provision to facilitate stakeholder engagement with the Department of Natural Resources and Environmental Control and the Delaware Solid Waste Authority, while removing the establishment and associated responsibilities of the Recycling Public Advisory Council. Section 7 of the Act removes specific civil and administrative penalties, allowing the Department to utilize enforcement authority already established in Chapter 60, Section 6005 and details the responsibilities of the Department and the Authority to provide an annual report to the Governor and General Assembly regarding the status of recycling activities in the state.\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Recycling/DNREC/DSWA"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-sb287"
@@ -134,6 +139,24 @@
       "_processing": {
         "log_file_created": "2026-06-18T14:41:57Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 8 On Its Merits",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-25T13:59:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-18T14:41:57Z"
+    "logs_latest_update": "2026-06-25T13:59:34Z"
   }
 }
