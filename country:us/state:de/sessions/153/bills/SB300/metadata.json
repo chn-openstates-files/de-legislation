@@ -409,6 +409,194 @@
       "_processing": {
         "log_file_created": "2026-06-25T13:59:34Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 3 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 4 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 5 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 6 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 7 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 8 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 9 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 10 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 11 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 12 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 13 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 14 to SS 1 - Stricken in House",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 15 to SS 1 - Passed In House by Voice Vote",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 16 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Amendment HA 16 to SS 1 - Passed In House by Voice Vote",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 27 YES 11 NO 1 NOT VOTING 2 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -493,6 +681,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 15 to SS 1 for SB 300",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143650&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143650&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 16 to SS 1 for SB 300",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143659&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143659&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -521,7 +739,7 @@
   ],
   "extras": {
     "substitute": "SS 1",
-    "amendment": "SA 1 -HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, HA"
+    "amendment": "SA 1 + HA 15, HA 16"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -530,6 +748,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T13:59:34Z"
+    "logs_latest_update": "2026-06-26T13:58:17Z"
   }
 }

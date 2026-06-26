@@ -48,6 +48,18 @@
       "_processing": {
         "log_file_created": "2026-06-25T13:59:34Z"
       }
+    },
+    {
+      "description": "Amendment HA 2 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,7 +84,7 @@
   ],
   "extras": {
     "substitute": "HS 1",
-    "amendment": "HA 1"
+    "amendment": "HA 1, HA 2"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -81,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T13:59:34Z"
+    "logs_latest_update": "2026-06-26T13:58:17Z"
   }
 }

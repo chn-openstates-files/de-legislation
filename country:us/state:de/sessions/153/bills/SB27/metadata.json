@@ -243,6 +243,30 @@
       "_processing": {
         "log_file_created": "2026-06-17T14:47:36Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to SB 27 - Passed In House by Voice Vote",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 34 YES 2 NO 5 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T13:58:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -334,6 +358,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 1 to SB 27",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143224&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143224&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -357,7 +396,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "amendment": "SA 2 + HA 1"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -366,6 +405,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-17T14:47:36Z"
+    "logs_latest_update": "2026-06-26T13:58:17Z"
   }
 }
