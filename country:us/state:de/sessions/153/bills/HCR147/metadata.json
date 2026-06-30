@@ -74,6 +74,18 @@
       "_processing": {
         "log_file_created": "2026-06-25T13:59:34Z"
       }
+    },
+    {
+      "description": "Amendment HA 2 to HCR 147 - Introduced and Placed With Bill",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T13:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,7 +141,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1"
+    "amendment": "HA 1, HA 2"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -138,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T13:59:34Z"
+    "logs_latest_update": "2026-06-30T13:51:37Z"
   }
 }
