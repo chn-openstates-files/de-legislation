@@ -109,6 +109,28 @@
       "_processing": {
         "log_file_created": "2026-06-25T13:59:34Z"
       }
+    },
+    {
+      "description": "Suspension of Rules in Senate",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 14 YES 6 NO 1 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T13:59:34Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

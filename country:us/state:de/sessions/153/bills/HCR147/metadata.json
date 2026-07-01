@@ -86,6 +86,40 @@
       "_processing": {
         "log_file_created": "2026-06-30T13:51:37Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HCR 147 - Stricken in House",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HCR 147 - Passed In House by Voice Vote",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 26 YES 11 NO 4 NOT VOTING",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,7 +165,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 2 to HCR 147",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143662&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143662&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -141,7 +191,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1, HA 2"
+    "amendment": "HA 2"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -150,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T13:51:37Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "This Act removes from the Town of Cheswold certain parcels of real property within the Nobles Pond development that are currently within the territorial limits of the Town of Cheswold.\n\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article IX of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend a municipal charter, whether directly, by amendment to a specific municipality\u2019s charter, or indirectly, by a general law."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Town of Cheswold/Territorial Limits/Nobles Pond"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-de-153-hb472"
@@ -130,6 +135,18 @@
       "_processing": {
         "log_file_created": "2026-06-26T13:58:17Z"
       }
+    },
+    {
+      "description": "Passed By Senate. Votes: 16 YES 5 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -186,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T13:58:17Z"
+    "logs_latest_update": "2026-07-01T14:03:34Z"
   }
 }

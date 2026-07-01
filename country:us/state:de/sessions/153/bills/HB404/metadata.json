@@ -85,6 +85,30 @@
       "_processing": {
         "log_file_created": "2026-06-25T13:59:34Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 36 YES 4 NO 1 ABSENT",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,7 +162,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 404",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143631&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143631&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [
     {
       "note": "Fiscal Note",
@@ -170,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T13:59:34Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

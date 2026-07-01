@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "short title",
-      "title": "Rent Increase Calculations/Manufactured Housing/Repeal Sunset"
+      "title": "Rent Increase/Manufactured Housing/Repeal Sunset"
     }
   ],
   "other_identifiers": [
@@ -112,6 +112,18 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:48:59Z"
       }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:48:59Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

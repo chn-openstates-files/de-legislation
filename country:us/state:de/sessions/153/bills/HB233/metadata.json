@@ -195,6 +195,71 @@
       "_processing": {
         "log_file_created": "2026-06-30T13:51:37Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Environment, Energy & Transportation) in Senate with 2 Favorable, 3 On Its Merits",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to HS 1 - Stricken in Senate",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Amendment SA 2 to HS 1 - Passed By Senate. Votes: 20 YES 1 NO",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 15 YES 6 NO",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 27 YES 8 NO 6 NOT VOTING",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -317,6 +382,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "SA 2 to HS 1 for HB 233",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143674&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143674&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -329,7 +409,7 @@
   ],
   "extras": {
     "substitute": "HS 1",
-    "amendment": "HA 1, HA 1 to HA 1, HA 3 -SA 1, SA 2"
+    "amendment": "HA 1, HA 1 to HA 1, HA 3 + SA 2"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -338,6 +418,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T13:51:37Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

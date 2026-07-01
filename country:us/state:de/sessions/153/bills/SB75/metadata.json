@@ -19,7 +19,11 @@
       "title": "Marijuana Establishments/Restrictions/County/Limit"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb75"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
@@ -208,6 +212,26 @@
       "_processing": {
         "log_file_created": "2026-01-29T12:30:37Z"
       }
+    },
+    {
+      "description": "Veto Override Passed in the House. 25 YES 16 NO",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
+    },
+    {
+      "description": "Enacted into Law",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -326,6 +350,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:30:37Z"
+    "logs_latest_update": "2026-07-01T14:03:33Z"
   }
 }

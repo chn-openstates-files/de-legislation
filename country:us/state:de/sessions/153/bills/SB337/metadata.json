@@ -43,6 +43,58 @@
       "_processing": {
         "log_file_created": "2026-06-26T13:58:17Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 5 On Its Merits",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:34Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 19 YES 1 NO 1 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:34Z"
+      }
+    },
+    {
+      "description": "Suspension of Rules in House",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:34Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 2 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:03:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T13:58:17Z"
+    "logs_latest_update": "2026-07-01T14:03:34Z"
   }
 }
