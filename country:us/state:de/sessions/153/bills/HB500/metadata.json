@@ -116,6 +116,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:03:33Z"
       }
+    },
+    {
+      "description": "Signed by Governor with Line Item Veto",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:06:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,7 +207,16 @@
   "related_bills": [],
   "versions": [],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 341",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=143658",
@@ -210,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:03:33Z"
+    "logs_latest_update": "2026-07-15T13:06:21Z"
   }
 }
